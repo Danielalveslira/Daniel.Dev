@@ -1,0 +1,24 @@
+{
+  "name": "tab3news.com",
+  "version": "1.0.0",
+  "description": "Tab3news.com",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Danielalveslira/Tab3News.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Danielalveslira/Tab3News/issues"
+  },
+  "homepage": "https://github.com/Danielalveslira/Tab3News#readme",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}

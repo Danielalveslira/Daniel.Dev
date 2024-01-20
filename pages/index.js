@@ -1,5 +1,5 @@
-function Hoem () {
-    return <h1>Olá mundo</h1>
+function home() {
+    return <h1>Hello World</h1>
 }
 
-export default Hoem;
+export default home; 
