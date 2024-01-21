@@ -1,0 +1,7 @@
+root = true
+
+# Especificando para todos os arquivos
+# Mas para o arquivo funcionar, primeiro baixar a extensão .editorconfig
+[*] 
+indent_style = space
+indent_size = 2
