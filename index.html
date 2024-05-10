@@ -9,10 +9,12 @@
 </head>
 
 <body>
-  <header class="border border-slate-300 hover:border-slate-400 mb-2 flex flex-direction-row justify-between">
+  <header class="border border-slate-300 hover:border-slate-400 mb-2 flex flex-direction-row">
     <h1 id="time" class="text-left text-xs p-2 py-3" >Time</h1>
-    <img src="./img/cave.png" class="size-10 p-2 " alt="Caverna">
+    <div class="flex flex-row justify-end">
+      <img src="./img/cave.png" class="size-10 p-2" alt="Caverna">
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="size-10 p-2"> <path d="M5 3h14v2H5V3zm0 16H3V5h2v14zm14 0v2H5v-2h14zm0 0h2V5h-2v14zM10 8H8v2h2V8zm4 0h2v2h-2V8zm-5 6v-2H7v2h2zm6 0v2H9v-2h6zm0 0h2v-2h-2v2z" fill="currentColor"/> </svg>
+    </div>
   </header>
   <nav class="text-center">
     <div>
@@ -21,11 +23,11 @@
         alt="">
     </div>
 
-    <ul class="flex flex-direction-row flex justify-between p-4">
-      <li><a href="#">GitHub</a></li>
-      <li><a href="#">Skills</a></li>
-      <li><a href="#">Projects</a></li>
-      <li><a href="#">About</a></li>
+    <ul class="flex flex-direction-row flex justify-center mt-6">
+      <li class="bg-sky-500 hover:bg-sky-700 p-1 rounded-md px-5 mb-5 text-white mx-3"><a href="#">GitHub</a></li>
+      <li class="bg-sky-500 hover:bg-sky-700 p-1 rounded-md px-5 mb-5 text-white mx-3"><a href="#">Skills</a></li>
+      <li class="bg-sky-500 hover:bg-sky-700 p-1 rounded-md px-5 mb-5 text-white mx-3"><a href="#">Projects</a></li>
+      <li class="bg-sky-500 hover:bg-sky-700 p-1 rounded-md px-5 mb-5 text-white mx-3"><a href="#">About</a></li>
     </ul>
     <button id="" data-link="https://wa.me/5584996550186" class="bg-sky-500 hover:bg-sky-700 p-1 rounded-md border-double border-4 border-black-500 px-6 mb-5 text-white">Let's talk</button>
   </nav>
