@@ -5,8 +5,15 @@ module.exports = {
     '*.{html,js}'],
   theme: {
     extend: {
-      
+      fontFamily: {
+        'roboto-slab': ['Roboto Slab', 'serif'],
+      },
+      fontWeight: {
+        'roboto-slab-light': 300,
+        'roboto-slab-normal': 400,
+        'roboto-slab-bold': 700,
+      }
     },
     plugins: [],
-  }
-}
+  },
+};
