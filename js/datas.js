@@ -36,40 +36,40 @@ function getNomeMes(numeroMes) {
 
   switch (numeroMes) {
     case 0:
-      nomeMes = 'Janeiro';
+      nomeMes = 'Jan';
       return nomeMes;
     case 1:
-      nomeMes = 'Fevereiro';
+      nomeMes = 'Fev';
       return nomeMes;
     case 2:
-      nomeMes = 'Março';
+      nomeMes = 'Mar';
       return nomeMes;
     case 3:
-      nomeMes = 'Abril';
+      nomeMes = 'Abr';
       return nomeMes;
     case 4:
-      nomeMes = 'Maio';
+      nomeMes = 'Mai';
       return nomeMes;
     case 5:
-      nomeMes = 'Junho';
+      nomeMes = 'Jun';
       return nomeMes;
     case 6:
-      nomeMes = 'Julho';
+      nomeMes = 'Jul';
       return nomeMes;
     case 7:
-      nomeMes = 'Agosto';
+      nomeMes = 'Ago';
       return nomeMes;
     case 8:
-      nomeMes = 'Setembro';
+      nomeMes = 'Set';
       return nomeMes;
     case 9:
-      nomeMes = 'Outubro';
+      nomeMes = 'Out';
       return nomeMes;
     case 10:
-      nomeMes = 'Novembro';
+      nomeMes = 'Nov';
       return nomeMes;
     case 11:
-      nomeMes = 'Dezembro';
+      nomeMes = 'Dez';
       return nomeMes;
 
   }
