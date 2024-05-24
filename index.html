@@ -1,157 +1,309 @@
 <!DOCTYPE html>
 <html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link href="./src/output.css" rel="stylesheet" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&display=swap"
+      rel="stylesheet"
+    />
+    <title>Daniel.Dev</title>
+  </head>
 
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link href="./src/output.css" rel="stylesheet">
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&display=swap" rel="stylesheet">
-  <title>Daniel.Dev</title>
-</head>
-
-<body class="mx-auto max-w-screen-lg">
-  <header class="mb-2 flex flex-direction-row justify-between">
-    <h1 id="time" class="text-left text-xs p-2 py-3">Time</h1>
-    <div class="flex flex-row justify-end">
-      <img src="./img/cave.png" class="size-10 p-2" alt="Caverna">
-      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="size-10 p-2">
-        <path
-          d="M5 3h14v2H5V3zm0 16H3V5h2v14zm14 0v2H5v-2h14zm0 0h2V5h-2v14zM10 8H8v2h2V8zm4 0h2v2h-2V8zm-5 6v-2H7v2h2zm6 0v2H9v-2h6zm0 0h2v-2h-2v2z"
-          fill="currentColor" />
-      </svg>
-    </div>
-  </header>
-  <nav class="text-center">
-    <div>
-      <a href=""></a>
-      <img class="w-24 h-24 md:w-48 md:h-auto md:rounded-none rounded-full mx-auto" src="./img/logoSemFundo.png" alt="">
-      <h1 class="mt-5 text-2xl font-bold font-roboto-slab font-roboto-slab-bold">Daniel Lira</h1>
-      <p>Apaixonado por programação!</p>
-    </div>
-
-    <ul class="flex flex-direction-row flex justify-center mt-6 my-6 ">
-      <li class="bg-blue-900 hover:bg-blue-950 p-1 rounded-md px-4 text-white mx-2 transition-colors duration-300"><a
-          href="https://github.com/Danielalveslira">GitHub</a></li>
-      <li class="bg-blue-900 hover:bg-blue-950 p-1 rounded-md px-2 text-white mx-2 transition-colors duration-300"><a
-          href="#">Projetos</a></li>
-      <li class="bg-blue-900 hover:bg-blue-950 p-1 rounded-md px-2 text-white mx-2 transition-colors duration-300"><a
-          href="#">Sobre</a></li>
-    </ul>
-  </nav>
-
-  <main>
-    <div class="font-roboto-slab tracking-wide leading-8">
-      <h4 class="text-center mb-5 pt-3 text-2xl">Conheça-me <span class="tracking-wide text-blue-900">melhor.</span>
-      </h4>
-
-      <h2 class="text-center px-1 text-1xl">Olá, sou <span>Daniel</span> Lira, Desenvolvedor Web <span
-          class="text-blue-900"><br>Front-End.</span></h2>
-
-      <br>
-      <p class="text-left text-base px-3">Com minha paixão pela programação e <br> meu compromisso em <span
-          class="underline decoration-blue-900">aprimorar minhas
-          habilidades,</span> estou confiante de que
-        posso me tornar um desenvolvedor full-stack de sucesso e fazer contribuições valiosas para a indústria de
-        tecnologia. <br> <br> Mesmo sem uma formação acadêmica formal ainda, acredito firmemente que paixão e determinação
-        podem
-        impulsionar alguém a grandes conquistas.</p>
-    </div>
-    <!-- Linha separador -->
-    <hr class="border-t border-gray-300 my-5">
-
-    <!-- Area projetos -->
-    <h2 class="py-2 text-2xl font-roboto-slab text-bold text-center">Projetos</h2>
-    <div id="container" class="grid grid-cols-2 sm:grid-cols-4 gap-2 px-4">
-
-      <div>
-        <a href="https://danielalveslira.github.io/Blog/">
-          <div id="blog-tech"
-            class="border border-blue-900-opacity-50 rounded-md hover:text-blue-900 hover:border-blue-900 transition-colors duration-300">
-            <h3 class="font-roboto-slab font-roboto-slab-bold font-roboto-slab-bold text-sm text-left mt-2 px-1 ">Meu
-              Blog
-              do mundo Tech!</h3>
-              <p class="font-roboto-slab font-normal text-left text-xs px-1 text-left my-2">Conteúdos para quem trabalha
-                com Programação e Tecnologia.</p>
-          </div>
-        </a>
+  <body class="mx-auto max-w-screen-lg">
+    <header class="mb-2 flex flex-direction-row justify-between">
+      <h1 id="time" class="text-left text-xs p-2 py-3">Time</h1>
+      <div class="flex flex-row justify-end">
+        <img src="./img/cave.png" class="size-10 p-2" alt="Caverna" />
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          viewBox="0 0 24 24"
+          class="size-10 p-2"
+        >
+          <path
+            d="M5 3h14v2H5V3zm0 16H3V5h2v14zm14 0v2H5v-2h14zm0 0h2V5h-2v14zM10 8H8v2h2V8zm4 0h2v2h-2V8zm-5 6v-2H7v2h2zm6 0v2H9v-2h6zm0 0h2v-2h-2v2z"
+            fill="currentColor"
+          />
+        </svg>
       </div>
+    </header>
+    <nav class="text-center">
       <div>
-        <a href="https://danielalveslira.github.io/My-Portfolio/">
-          <div id="outra-pagina"
-            class="border border-blue-900-opacity-50 rounded-md hover:text-blue-900 hover:border-blue-900 transition-colors duration-300">
-            <h3 class=" font-roboto-slab font-roboto-slab-bold font-roboto-slab-bold text-sm text-left mt-2 px-1">Minha
-              outra página</h3>
-              <p class="font-roboto-slab font-normal text-left text-xs px-1 text-left my-2">Veja só como ficou massinha.
+        <a href=""></a>
+        <img
+          class="w-24 h-24 md:w-48 md:h-auto md:rounded-none rounded-full mx-auto"
+          src="./img/logoSemFundo.png"
+          alt=""
+        />
+        <h1 class="mt-5 text-2xl font-roboto-slab font-roboto-slab-bold">
+          Daniel Lira
+        </h1>
+        <p>Apaixonado por programação!</p>
+      </div>
+
+      <ul class="flex flex-direction-row justify-center mt-6 my-6">
+        <li
+          class="bg-blue-900 hover:bg-blue-950 p-1 rounded-md px-4 text-white mx-2 transition-colors duration-300"
+        >
+          <a href="https://github.com/Danielalveslira">GitHub</a>
+        </li>
+        <li
+          class="bg-blue-900 hover:bg-blue-950 p-1 rounded-md px-2 text-white mx-2 transition-colors duration-300"
+        >
+          <a href="#">Projetos</a>
+        </li>
+        <li
+          class="bg-blue-900 hover:bg-blue-950 p-1 rounded-md px-2 text-white mx-2 transition-colors duration-300"
+        >
+          <a href="#">Sobre</a>
+        </li>
+      </ul>
+    </nav>
+
+    <main>
+      <div class="font-roboto-slab tracking-wide leading-8">
+        <h4 class="text-center mb-5 pt-3 text-2xl">
+          Conheça-me <span class="tracking-wide text-blue-900">melhor.</span>
+        </h4>
+
+        <h2 class="text-center px-1 text-1xl">
+          Olá, sou <span>Daniel</span> Lira, Desenvolvedor Web
+          <span class="text-blue-900"><br />Front-End.</span>
+        </h2>
+
+        <br />
+        <p class="text-left text-base px-3">
+          Com minha paixão pela programação e <br />
+          meu compromisso em
+          <span class="underline decoration-blue-900"
+            >aprimorar minhas habilidades,</span
+          >
+          estou confiante de que posso me tornar um desenvolvedor full-stack de
+          sucesso e fazer contribuições valiosas para a indústria de tecnologia.
+          <br />
+          <br />
+          Mesmo sem uma formação acadêmica formal ainda, acredito firmemente que
+          paixão e determinação podem impulsionar alguém a grandes conquistas.
+        </p>
+      </div>
+      <!-- Linha separador -->
+      <hr class="border-t border-gray-300 my-5" />
+
+      <!-- Area projetos -->
+      <h2 class="my-5 text-2xl font-roboto-slab text-bold text-center ">
+        Veja mais
+      </h2>
+      <div id="container" class="grid grid-cols-2 sm:grid-cols-4 my-5 px-4">
+        <div>
+          <a href="https://danielalveslira.github.io/Blog/">
+            <div
+              id="blog-tech"
+              class="border border-blue-900-opacity-50 rounded-md hover:text-blue-900 hover:border-blue-900 transition-colors duration-300"
+            >
+              <h3
+                class="font-roboto-slab font-roboto-slab-bold text-sm text-left mt-2 px-1"
+              >
+                Meu Blog do mundo Tech!
+              </h3>
+              <p
+                class="font-roboto-slab font-normal text-left text-xs px-1 my-2"
+              >
+                Conteúdos para quem trabalha com Programação e Tecnologia.
               </p>
-          </div>
-        </a>
-      </div>
-      <div>
-        <a href="https://www.linkedin.com/in/dnllira/">
-          <div id="linkedin"
-            class="border border-blue-900-opacity-50 rounded-md hover:text-blue-900 hover:border-blue-900 transition-colors duration-300">
-            <h3 class="font-roboto-slab font-roboto-slab-bold font-roboto-slab-bold text-sm text-left mt-2 px-1">LinkedIn</h3>
-              <p class="font-roboto-slab font-normal text-left text-xs px-1 text-left py-2">Um excelente lugar para <br> seguir conteúdos de natureza <br> mais profissional.</p>
-          </div>
-        </a>
-      </div>
-      <div>
-        <a href="https://www.instagram.com/dnllira/">
-          <div id="instagram"
-            class="border border-blue-900-opacity-50 rounded-md hover:text-blue-900 hover:border-blue-900 transition-colors duration-300">
-            <h3 class="font-roboto-slab font-roboto-slab-bold font-roboto-slab-bold text-sm text-left mt-2 px-1">
-              Instagram</h3>
-              <p class="font-roboto-slab font-normal text-left text-xs px-1 text-left my-2">Um ótimo lugar para acompanhar <br> o meu cotidiano.</p>
-          </div>
-        </a>
-      </div>
-    </div>
-    <hr class="border-t border-gray-300 my-5">
-
-    <h2 class="py-2 text-2xl font-roboto-slab text-bold text-center mb-5">Estudando</h2>
-    <div id="habilidades" class="w-1/2 md:w-1/4 h-auto md:h-auto xl:rounded-none rounded-full mx-auto mb-4 grid grid-cols-8 md:grid-cols-8 gap-2">
-      <img src="./img/js.png" class="hover:scale-110 transition-transform duration-300" alt="">
-      <img src="./img/html.png" class="hover:scale-110 transition-transform duration-300" alt="">
-      <img src="./img/css.png" class="hover:scale-110 transition-transform duration-300" alt="">
-      <img src="./img/tailwind.png" class="hover:scale-110 transition-transform duration-300" alt="">
-      <img src="./img/git.png" class="hover:scale-110 transition-transform duration-300" alt="">
-      <img src="./img/docker.png" class="hover:scale-110 transition-transform duration-300" alt="">
-      <img src="./img/linux.png" class="hover:scale-110 transition-transform duration-300" alt="">
-      <img src="./img/python.png" class="hover:scale-110 transition-transform duration-300" alt="">
-    </div>
-
-    <footer class="grid grid-cols-2 mb-10">
-      <div>
-        <h2 class="py-2 text-2xl font-roboto-slab text-bold text-center mb-5">Projetos</h2>
-        <div class="grid grid-rows-2 gap-2 underline text-left ">
-          <a href="https://danielalveslira.github.io/calculadoraIMC/" class="text-blue-600 hover:text-blue-900">Calculadora IMC</a>
-          <a href="https://danielalveslira.github.io/Calculadora_gorjetas/" class="text-blue-600 hover:text-blue-900">Calculadora de gorjetas</a>
-          <a href="https://danielalveslira.github.io/cookies/cardapio/" class="text-blue-600 hover:text-blue-900">Cardápio</a>
-          <a href="https://danielalveslira.github.io/My-Portfolio/" class="text-blue-600 hover:text-blue-900">Site antigo</a>
-          <a href="https://danielalveslira.github.io/Blog/" class="text-blue-600 hover:text-blue-900">Blog Tech</a>
-          <a href="https://github.com/Danielalveslira/nlw-setup" class="text-blue-600 hover:text-blue-900">Registrar hábitos</a>
-          <a href="https://danielalveslira.github.io/Relogio-Digital/" class="text-blue-600 hover:text-blue-900">Apenas um relógio simples</a>
+            </div>
+          </a>
+        </div>
+        <div>
+          <a href="https://danielalveslira.github.io/My-Portfolio/">
+            <div
+              id="outra-pagina"
+              class="border border-blue-900-opacity-50 rounded-md hover:text-blue-900 hover:border-blue-900 transition-colors duration-300"
+            >
+              <h3
+                class="font-roboto-slab font-roboto-slab-bold text-sm text-left mt-2 px-1"
+              >
+                Minha outra página
+              </h3>
+              <p
+                class="font-roboto-slab font-normal text-left text-xs px-1 my-2"
+              >
+                Veja só como ficou massinha.
+              </p>
+            </div>
+          </a>
+        </div>
+        <div>
+          <a href="https://www.linkedin.com/in/dnllira/">
+            <div
+              id="linkedin"
+              class="border border-blue-900-opacity-50 rounded-md hover:text-blue-900 hover:border-blue-900 transition-colors duration-300"
+            >
+              <h3
+                class="font-roboto-slab font-roboto-slab-bold text-sm text-left mt-2 px-1"
+              >
+                LinkedIn
+              </h3>
+              <p
+                class="font-roboto-slab font-normal text-left text-xs px-1 py-2"
+              >
+                Um excelente lugar para <br />
+                seguir conteúdos de natureza <br />
+                mais profissional.
+              </p>
+            </div>
+          </a>
+        </div>
+        <div>
+          <a href="https://www.instagram.com/dnllira/">
+            <div
+              id="instagram"
+              class="border border-blue-900-opacity-50 rounded-md hover:text-blue-900 hover:border-blue-900 transition-colors duration-300"
+            >
+              <h3
+                class="font-roboto-slab font-roboto-slab-bold text-sm text-left mt-2 px-1"
+              >
+                Instagram
+              </h3>
+              <p
+                class="font-roboto-slab font-normal text-left text-xs px-1 my-2"
+              >
+                Um ótimo lugar para acompanhar <br />
+                o meu cotidiano.
+              </p>
+            </div>
+          </a>
         </div>
       </div>
 
-      <div>
-        <h2 class="py-2 text-2xl font-roboto-slab text-center mb-5">Links</h2>
-        <div class="grid grid-rows-2 gap-2 underline text-left">
-          <a href="https://github.com/Danielalveslira" class="text-blue-600 hover:text-blue-900">GitHub</a>
-          <a href="https://www.instagram.com/dnllira/" class="text-blue-600 hover:text-blue-900">Instagram</a>
-          <a href="https://www.linkedin.com/in/dnllira/" class="text-blue-600 hover:text-blue-900">LinkedIn</a>
-          <a href="https://medium.com/@dnllira1" class="text-blue-600 hover:text-blue-900">Medium</a>
-          <a href="mailto:dnllira1@gmail.com" class="text-blue-600 hover:text-blue-900">E-mail</a>
-        </div>
+      <h2 class="py-2 text-2xl font-roboto-slab text-bold text-center mb-5">
+        Estudando
+      </h2>
+      <div
+        id="habilidades"
+        class="w-1/2 md:w-1/4 h-auto md:h-auto xl:rounded-none rounded-full mx-auto mb-4 grid grid-cols-8 md:grid-cols-8 gap-2"
+      >
+        <img
+          src="./img/js.png"
+          class="hover:scale-110 transition-transform duration-300"
+          alt=""
+        />
+        <img
+          src="./img/html.png"
+          class="hover:scale-110 transition-transform duration-300"
+          alt=""
+        />
+        <img
+          src="./img/css.png"
+          class="hover:scale-110 transition-transform duration-300"
+          alt=""
+        />
+        <img
+          src="./img/tailwind.png"
+          class="hover:scale-110 transition-transform duration-300"
+          alt=""
+        />
+        <img
+          src="./img/git.png"
+          class="hover:scale-110 transition-transform duration-300"
+          alt=""
+        />
+        <img
+          src="./img/docker.png"
+          class="hover:scale-110 transition-transform duration-300"
+          alt=""
+        />
+        <img
+          src="./img/linux.png"
+          class="hover:scale-110 transition-transform duration-300"
+          alt=""
+        />
+        <img
+          src="./img/python.png"
+          class="hover:scale-110 transition-transform duration-300"
+          alt=""
+        />
       </div>
 
-    </footer>
-  </main>
+      <footer class="grid grid-cols-2 mb-10">
+        <div>
+          <h2 class="py-2 text-2xl font-roboto-slab text-bold text-center mb-5">
+            Projetos
+          </h2>
+          <div class="grid grid-rows-2 gap-2 underline text-left text-xs pl-10">
+            <a
+              href="https://danielalveslira.github.io/calculadoraIMC/"
+              class="text-blue-600 hover:text-blue-900"
+              >Calculadora IMC</a
+            >
+            <a
+              href="https://danielalveslira.github.io/Calculadora_gorjetas/"
+              class="text-blue-600 hover:text-blue-900"
+              >Calculadora de gorjetas</a
+            >
+            <a
+              href="https://danielalveslira.github.io/cookies/cardapio/"
+              class="text-blue-600 hover:text-blue-900"
+              >Cardápio</a
+            >
+            <a
+              href="https://danielalveslira.github.io/My-Portfolio/"
+              class="text-blue-600 hover:text-blue-900"
+              >Site antigo</a
+            >
+            <a
+              href="https://danielalveslira.github.io/Blog/"
+              class="text-blue-600 hover:text-blue-900"
+              >Blog Tech</a
+            >
+            <a
+              href="https://github.com/Danielalveslira/nlw-setup"
+              class="text-blue-600 hover:text-blue-900"
+              >Registrar hábitos</a
+            >
+            <a
+              href="https://danielalveslira.github.io/Relogio-Digital/"
+              class="text-blue-600 hover:text-blue-900"
+              >Apenas um relógio simples</a
+            >
+          </div>
+        </div>
 
+        <div>
+          <h2 class="py-2 text-2xl font-roboto-slab text-center mb-5">Links</h2>
+          <div class="grid grid-rows-2 gap-2 underline text-left text-xs pl-10">
+            <a
+              href="https://github.com/Danielalveslira"
+              class="text-blue-600 hover:text-blue-900"
+              >GitHub</a
+            >
+            <a
+              href="https://www.instagram.com/dnllira/"
+              class="text-blue-600 hover:text-blue-900"
+              >Instagram</a
+            >
+            <a
+              href="https://www.linkedin.com/in/dnllira/"
+              class="text-blue-600 hover:text-blue-900"
+              >LinkedIn</a
+            >
+            <a
+              href="https://medium.com/@dnllira1"
+              class="text-blue-600 hover:text-blue-900"
+              >Medium</a
+            >
+            <a
+              href="mailto:dnllira1@gmail.com"
+              class="text-blue-600 hover:text-blue-900"
+              >E-mail</a
+            >
+          </div>
+        </div>
+      </footer>
+    </main>
 
-  <script src="./js/datas.js"></script>
-</body>
-
+    <script src="./js/datas.js"></script>
+  </body>
 </html>
