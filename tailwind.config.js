@@ -12,7 +12,10 @@ module.exports = {
         'roboto-slab-light': 300,
         'roboto-slab-normal': 400,
         'roboto-slab-bold': 700,
-      }
+      },
+      colors: {
+        'azulClaro': '#1a8cd8',
+      },
     },
     plugins: [],
   },
