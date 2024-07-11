@@ -1,0 +1,128 @@
+{
+  "locale": "sc",
+  "domain": "sc",
+  "direction": "ltr",
+  "countryCode": "",
+  "country": "",
+  "countryNative": "",
+  "language": "Sardinian",
+  "languageNative": "sardu",
+  "translations": {
+    "months": {
+      "formatted": {
+        "abbreviated": [
+          "ghe",
+          "fre",
+          "mar",
+          "abr",
+          "maj",
+          "làm",
+          "trì",
+          "aus",
+          "cab",
+          "stG",
+          "stA",
+          "nad"
+        ],
+        "narrow": ["G", "F", "M", "A", "M", "L", "T", "A", "C", "S", "S", "N"],
+        "wide": [
+          "ghennàrgiu",
+          "freàrgiu",
+          "martzu",
+          "abrile",
+          "maju",
+          "làmpadas",
+          "trìulas",
+          "austu",
+          "cabudanni",
+          "santugaine",
+          "santandria",
+          "nadale"
+        ]
+      },
+      "nominative": {
+        "abbreviated": [
+          "ghe",
+          "fre",
+          "mar",
+          "abr",
+          "maj",
+          "làm",
+          "trì",
+          "aus",
+          "cab",
+          "stG",
+          "stA",
+          "nad"
+        ],
+        "narrow": ["G", "F", "M", "A", "M", "L", "T", "A", "C", "S", "S", "N"],
+        "wide": [
+          "ghennàrgiu",
+          "freàrgiu",
+          "martzu",
+          "abrile",
+          "maju",
+          "làmpadas",
+          "trìulas",
+          "austu",
+          "cabudanni",
+          "santugaine",
+          "santandria",
+          "nadale"
+        ]
+      }
+    },
+    "days": {
+      "formatted": {
+        "abbreviated": ["dom", "lun", "mar", "mèr", "giò", "che", "sàb"],
+        "narrow": ["D", "L", "M", "M", "G", "C", "S"],
+        "short": ["dom", "lun", "mar", "mèr", "giò", "che", "sàb"],
+        "wide": [
+          "domìniga",
+          "lunis",
+          "martis",
+          "mèrcuris",
+          "giòbia",
+          "chenàbura",
+          "sàbadu"
+        ]
+      },
+      "nominative": {
+        "abbreviated": ["dom", "lun", "mar", "mèr", "giò", "che", "sàb"],
+        "narrow": ["D", "L", "M", "M", "G", "C", "S"],
+        "short": ["dom", "lun", "mar", "mèr", "giò", "che", "sàb"],
+        "wide": [
+          "domìniga",
+          "lunis",
+          "martis",
+          "mèrcuris",
+          "giòbia",
+          "chenàbura",
+          "sàbadu"
+        ]
+      }
+    },
+    "time": { "AM": "AM", "PM": "PM" }
+  },
+  "formats": {
+    "date": {
+      "full": "EEEE d 'de' MMMM 'de' 'su' y",
+      "long": "d 'de' MMMM 'de' 'su' y",
+      "medium": "d 'de' MMM y",
+      "short": "dd/MM/y"
+    },
+    "time": {
+      "full": "HH:mm:ss zzzz",
+      "long": "HH:mm:ss z",
+      "medium": "HH:mm:ss",
+      "short": "HH:mm"
+    },
+    "dateTime": {
+      "full": "{1}, {0}",
+      "long": "{1}, {0}",
+      "medium": "{1}, {0}",
+      "short": "{1}, {0}"
+    },
+    "numbers": { "decimals": ",", "grouping": ".", "minus": "-" }
+  }
+}

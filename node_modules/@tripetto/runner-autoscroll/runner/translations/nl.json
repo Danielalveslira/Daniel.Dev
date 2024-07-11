@@ -1,0 +1,330 @@
+{
+  "": {
+    "project-id-version": "@tripetto/runner-autoscroll 0.0.0",
+    "report-msgid-bugs-to": "support@tripetto.com",
+    "pot-creation-date": "2024-03-12 11:21+0100",
+    "po-revision-date": "2024-03-12 11:21+0100",
+    "last-translator": "Mark van den Brink <mark@vandenbr.ink>",
+    "language-team": "",
+    "language": "nl",
+    "mime-version": "1.0",
+    "content-type": "text/plain; charset=UTF-8",
+    "content-transfer-encoding": "8bit",
+    "plural-forms": "nplurals=2; plural=(n != 1);",
+    "x-generator": "Poedit 3.4.2"
+  },
+  "runner#9|⚠ Errors|Input error\u0004%1 item requires your attention! Click to fix.": [
+    "%1 items require your attention! Click to fix.",
+    "%1 item vereist uw aandacht! Klik om op te lossen.",
+    "%1 items vereisen uw aandacht! Klik om op te lossen."
+  ],
+  "runner#3|🩺 Status information\u0004%1 of %2 answered": [
+    null,
+    "%1 van %2 beantwoord"
+  ],
+  "runner#3|🩺 Status information\u0004Nothing to answer": [
+    null,
+    "Niets te beantwoorden"
+  ],
+  "runner#3|🩺 Status information\u0004Pausing...": [null, "Pauzeren..."],
+  "runner#3|🩺 Status information\u0004Submitting...": [null, "Versturen..."],
+  "runner#3|🩺 Status information\u0004⏳ One moment please...": [
+    null,
+    "⏳ Een ogenblik geduld alstublieft..."
+  ],
+  "runner:autoscroll\u0004100% height, width centered": [
+    null,
+    "100% hoogte, horizontaal gecentreerd"
+  ],
+  "runner:autoscroll\u0004100% width, height centered": [
+    null,
+    "100% breedte, verticaal gecentreerd)"
+  ],
+  "runner:autoscroll\u0004Agree color (input buttons)": [
+    null,
+    "Accepteerkleur (invoerknoppen)"
+  ],
+  "runner:autoscroll\u0004Always": [null, "Altijd"],
+  "runner:autoscroll\u0004Appearance": [null, "Weergave"],
+  "runner:autoscroll\u0004Automatically gain focus": [
+    null,
+    "Automatisch focus verkrijgen"
+  ],
+  "runner:autoscroll\u0004Background": [null, "Achtergrond"],
+  "runner:autoscroll\u0004Background color": [null, "Achtergrondkleur"],
+  "runner:autoscroll\u0004Border color": [null, "Randkleur"],
+  "runner:autoscroll\u0004Border size": [null, "Randdikte"],
+  "runner:autoscroll\u0004Bottom": [null, "Onderaan"],
+  "runner:autoscroll\u0004Button color": [null, "Knopkleur"],
+  "runner:autoscroll\u0004Buttons": [null, "Knoppen"],
+  "runner:autoscroll\u0004Center": [null, "Centreer"],
+  "runner:autoscroll\u0004Color": [null, "Kleur"],
+  "runner:autoscroll\u0004Contain (full image stretched over screen)": [
+    null,
+    "Uitvullen (volledige afbeelding uitgerekt over scherm)"
+  ],
+  "runner:autoscroll\u0004Cover (full screen)": [
+    null,
+    "Bedekken (volledig scherm)"
+  ],
+  "runner:autoscroll\u0004Create one now!": [null, "Maak er nu een!"],
+  "runner:autoscroll\u0004Custom fonts": [null, "Andere lettertypes"],
+  "runner:autoscroll\u0004Customize": [null, "Aanpassen"],
+  "runner:autoscroll\u0004Decline color (input buttons)": [
+    null,
+    "Weigerkleur (invoerknoppen)"
+  ],
+  "runner:autoscroll\u0004Default": [null, "Standaard"],
+  "runner:autoscroll\u0004Did you know you can customize this closing message?": [
+    null,
+    "Wist je dat je dit slotbericht kunt aanpassen?"
+  ],
+  "runner:autoscroll\u0004Disable scrolling": [null, "Scrollen uitschakelen"],
+  "runner:autoscroll\u0004Disabled in preview mode": [
+    null,
+    "Uitgeschakeld in de voorbeeldweergave"
+  ],
+  "runner:autoscroll\u0004Discard": [null, "Negeer"],
+  "runner:autoscroll\u0004Display back button": [null, "Toon terug-knop"],
+  "runner:autoscroll\u0004Display numbering": [null, "Vraagnummers weergeven"],
+  "runner:autoscroll\u0004Display progressbar": [null, "Voortgangsbalk tonen"],
+  "runner:autoscroll\u0004Display separate submit button": [
+    null,
+    "Afzonderlijke verzendknop weergeven"
+  ],
+  "runner:autoscroll\u0004Fill": [null, "Vullen"],
+  "runner:autoscroll\u0004Font": [null, "Lettertype"],
+  "runner:autoscroll\u0004Font family": [null, "Lettertype familie"],
+  "runner:autoscroll\u0004Font size": [null, "Tekengrootte"],
+  "runner:autoscroll\u0004Font size for small screens": [
+    null,
+    "Tekengrootte voor kleine schermen"
+  ],
+  "runner:autoscroll\u0004Google Fonts or URL": [null, "Google Fonts of URL"],
+  "runner:autoscroll\u0004Hide all the Tripetto branding": [
+    null,
+    "Verberg alle Tripetto reclame"
+  ],
+  "runner:autoscroll\u0004Hide asterisk for required questions": [
+    null,
+    "Verberg sterretje voor verplichte vragen"
+  ],
+  "runner:autoscroll\u0004Hide past blocks": [
+    null,
+    "Gepasseerde blokken verbergen"
+  ],
+  "runner:autoscroll\u0004Hide upcoming blocks": [
+    null,
+    "Aankomende blokken verbergen"
+  ],
+  "runner:autoscroll\u0004Hide upcoming sections when a (required) block fails validation": [
+    null,
+    "Verberg vervolgsecties wanneer een (verplicht) onderdeel ongeldig (onbeantwoord) is"
+  ],
+  "runner:autoscroll\u0004Horizontal": [null, "Horizontaal"],
+  "runner:autoscroll\u0004Image (URL)": [null, "Afbeelding (URL)"],
+  "runner:autoscroll\u0004In a live environment the form will redirect to:": [
+    null,
+    "In een live omgeving wordt het formulier omgeleid naar:"
+  ],
+  "runner:autoscroll\u0004Inputs": [null, "Invoervelden"],
+  "runner:autoscroll\u0004Middle": [null, "Midden"],
+  "runner:autoscroll\u0004Navigation bar": [null, "Navigatiebalk"],
+  "runner:autoscroll\u0004Never": [null, "Nooit"],
+  "runner:autoscroll\u0004Only applies when embedding the form.": [
+    null,
+    "Alleen van toepassing voor formulieren die zijn geëmbed."
+  ],
+  "runner:autoscroll\u0004Only when displayed in full page": [
+    null,
+    "Alleen weergeven in een volledige pagina"
+  ],
+  "runner:autoscroll\u0004Opacity": [null, "Dekking"],
+  "runner:autoscroll\u0004Options": [null, "Opties"],
+  "runner:autoscroll\u0004Outline": [null, "Omlijning"],
+  "runner:autoscroll\u0004Please add a block first to get the magic going.": [
+    null,
+    "Begin met het toevoegen van een blok om het gesprek op gang the brengen."
+  ],
+  "runner:autoscroll\u0004Positioning": [null, "Positionering"],
+  "runner:autoscroll\u0004Powered by Tripetto": [null, "Gebouwd met Tripetto"],
+  "runner:autoscroll\u0004Preview mode (shows all without logic)": [
+    null,
+    "Voorbeeldweergave (zonder logica)"
+  ],
+  "runner:autoscroll\u0004Progressbar color": [null, "Kleur voortgangsbalk"],
+  "runner:autoscroll\u0004Repeat": [null, "Herhalen"],
+  "runner:autoscroll\u0004Required/error color": [
+    null,
+    "Kleur verplicht/fouten"
+  ],
+  "runner:autoscroll\u0004Roundness": [null, "Rondheid"],
+  "runner:autoscroll\u0004Scroll direction": [null, "Scroll richting"],
+  "runner:autoscroll\u0004Selection color (input buttons)": [
+    null,
+    "Selectiekleur (invoerknoppen)"
+  ],
+  "runner:autoscroll\u0004Show navigation bar": [
+    null,
+    "Navigatiebalk weergeven"
+  ],
+  "runner:autoscroll\u0004Show scrollbar": [null, "Scrollbalk weergeven"],
+  "runner:autoscroll\u0004Standard fonts": [null, "Standaard lettertypen"],
+  "runner:autoscroll\u0004Style": [null, "Stijl"],
+  "runner:autoscroll\u0004Submit button color": [null, "Verzendknopkleur"],
+  "runner:autoscroll\u0004Test again": [null, "Opnieuw testen"],
+  "runner:autoscroll\u0004Text color": [null, "Tekstkleur"],
+  "runner:autoscroll\u0004The supplied URL is invalid!": [
+    null,
+    "De opgegeven URL is ongeldig!"
+  ],
+  "runner:autoscroll\u0004Top": [null, "Bovenaan"],
+  "runner:autoscroll\u0004Tripetto is for making elegantly personal form and survey experiences with response boosting conversational powers.": [
+    null,
+    "Gebruik Tripetto voor het maken van gave formulieren en enquêtes."
+  ],
+  "runner:autoscroll\u0004Use any font available on [Google Fonts](https://fonts.google.com/) or supply a custom font URL. Please note that the Google Fonts name is case sensitive.": [
+    null,
+    "U kunt ieder font gebruiken dat beschikbaar is op [Google Fonts](https://fonts.google.com/) of eventueel een eigen URL opgeven. Let op: De Google Fonts naam is hoofdlettergevoelig."
+  ],
+  "runner:autoscroll\u0004Vertical": [null, "Verticaal"],
+  "runner:autoscroll\u0004Vertical alignment": [null, "Verticale uitlijning"],
+  "runner:autoscroll\u0004Visibility": [null, "Zichtbaarheid"],
+  "runner:autoscroll\u0004Want to make a form like this for free?": [
+    null,
+    "Wil je ook zo'n formulier gratis maken?"
+  ],
+  "runner:autoscroll\u0004_Note_: This size applies to small screens (like mobile devices). Switch to the mobile device preview to see and test this small font size.": [
+    null,
+    "_Opmerking_: Deze tekengrootte is van toepassing voor kleine beeldschermen (mobiele apparaten). Schakel over naar de voorbeeldweergave voor mobiele apparaten om de gewenste tekengrootte te bekijken."
+  ],
+  "runner:autoscroll\u0004🎉 Test completed": [null, "🎉 Test voltooid"],
+  "runner:autoscroll\u0004👋 Hi there!": [null, "👋 Hallo daar!"],
+  "runner#6|📂 File upload\u0004Allowed extensions: %1": [
+    null,
+    "Toegestane extensies: %1"
+  ],
+  "runner#6|📂 File upload\u0004Choose or drag a file here": [
+    null,
+    "Kies een bestand of sleep een bestand hierheen"
+  ],
+  "runner#6|📂 File upload\u0004Delete": [null, "Verwijder"],
+  "runner#6|📂 File upload\u0004Drop your file now": [
+    null,
+    "Laat het bestand hier los"
+  ],
+  "runner#6|📂 File upload\u0004Extension is not allowed.": [
+    null,
+    "Extensie is niet toegestaan."
+  ],
+  "runner#6|📂 File upload\u0004File size is too large.": [
+    null,
+    "De bestandsgrootte is te groot."
+  ],
+  "runner#6|📂 File upload\u0004Size limit: %1": [null, "Maximale grootte: %1"],
+  "runner#6|📂 File upload\u0004Something went wrong while uploading%1.": [
+    null,
+    "Er is iets misgegaan tijdens het uploaden%1."
+  ],
+  "runner#6|📂 File upload\u0004This file can't be used.": [
+    null,
+    "Dit bestand kan niet worden gebruikt."
+  ],
+  "runner#6|📂 File upload\u0004Too many files selected.": [
+    null,
+    "Er zijn te veel bestanden geselecteerd."
+  ],
+  "runner#6|📂 File upload\u0004Try again": [null, "Probeer opnieuw"],
+  "runner#6|📂 File upload\u0004Uploading (%1)": [
+    null,
+    "Bezig met uploaden (%1)"
+  ],
+  "runner#1|🆗 Buttons\u0004Back": [null, "Vorige"],
+  "runner#1|🆗 Buttons\u0004Discard": [null, "Negeer"],
+  "runner#1|🆗 Buttons\u0004Next": [null, "Volgende"],
+  "runner#1|🆗 Buttons\u0004Reload": [null, "Herladen"],
+  "runner#1|🆗 Buttons\u0004Retry": [null, "Opnieuw proberen"],
+  "runner#1|🆗 Buttons\u0004Start": [null, "Start"],
+  "runner#1|🆗 Buttons\u0004Start again": [null, "Opnieuw beginnen"],
+  "runner#1|🆗 Buttons\u0004Submit": [null, "Verzenden"],
+  "runner#8|⏸ Pause conversation\u0004Cancel pausing": [
+    null,
+    "Pauzeren annuleren"
+  ],
+  "runner#8|⏸ Pause conversation\u0004Pause this conversation": [
+    null,
+    "Pauzeer dit gesprek"
+  ],
+  "runner#8|⏸ Pause conversation\u0004Receive a link by email to resume later on any device, right where you left off.": [
+    null,
+    "Ontvang een link per e-mail om later verder te gaan met dit gesprek."
+  ],
+  "runner#8|⏸ Pause conversation\u0004Receive resume link": [
+    null,
+    "Ontvang koppeling"
+  ],
+  "runner#8|⏸ Pause conversation\u0004Your email address...": [
+    null,
+    "Uw e-mailadres..."
+  ],
+  "runner#6|✍️ Signature\u0004Clear": [null, "Wissen"],
+  "runner#6|✍️ Signature\u0004Processing signature (%1)": [
+    null,
+    "Verwerking handtekening (%1)"
+  ],
+  "runner#6|✍️ Signature\u0004Signed on %1": [null, "Ondertekend op %1"],
+  "runner#9|⚠ Errors|Outdated error\u0004It seems the form is changed by the owner while you were filling in the form. Your data cannot be processed, but you can try to reload the new version of the form while maintaining the data you've filled in. Click the reload button to try this. Please check your data after reloading and then submit again.": [
+    null,
+    "Het lijkt erop dat het formulier werd gewijzigd door de eigenaar terwijl u het formulier invulde. Uw gegevens kunnen nu niet worden verwerkt, maar u kunt proberen de nieuwe versie van het formulier te laden met behoud van de gegevens die u heeft ingevuld. Klik daarvoor op de herlaadknop. Controleer vervolgens uw gegevens na het herladen en probeer het formulier opnieuw te voltooien."
+  ],
+  "runner#9|⚠ Errors|Outdated error\u0004It seems the form is changed by the owner while you were filling in the form. Your data cannot be processed. Try reloading the form.": [
+    null,
+    "Het lijkt erop dat het formulier werd gewijzigd door de eigenaar terwijl u het formulier invulde. Uw gegevens kunnen nu niet worden verwerkt. Probeer het formulier opnieuw te laden."
+  ],
+  "runner#6|🔷 Yes/No\u0004No": [null, "Nee"],
+  "runner#6|🔷 Yes/No\u0004Yes": [null, "Ja"],
+  "runner#2|💬 Messages|Conversation closed\u0004Nothing to talk about. The conversation is closed 🤐": [
+    null,
+    "Er is niets om over te praten. Het gesprek is ten einde 🤐"
+  ],
+  "runner#2|💬 Messages|Conversation closed\u0004👋 Hi there!": [
+    null,
+    "👋 Hallo daar!"
+  ],
+  "runner#9|⚠ Errors|Connection error\u0004Please check your connection and try again (for the techies: The error console of your browser might contain more technical information about what went wrong).": [
+    null,
+    "Controleer uw verbinding en probeer opnieuw (voor de techneuten: De fout-console van uw browser bevat mogelijk meer informatie over wat er is misgegaan)."
+  ],
+  "runner#9|⚠ Errors|Pausing error\u0004Something went wrong while pausing your conversation.": [
+    null,
+    "Er is iets misgegaan tijdens het pauzeren van het formulier."
+  ],
+  "runner#9|⚠ Errors|Submit error\u0004Something went wrong while submitting your conversation.": [
+    null,
+    "Er is iets misgegaan tijdens het verwerken van het formulier."
+  ],
+  "runner#9|⚠ Errors|Submit error\u0004The form is outdated.": [
+    null,
+    "Het formulier is verouderd."
+  ],
+  "runner#9|⚠ Errors|Submit error\u0004Your data is rejected.": [
+    null,
+    "Uw gegevens werden geweigerd."
+  ],
+  "runner#2|💬 Messages|Conversation paused\u0004The conversation is now paused.": [
+    null,
+    "Het gesprek is gepauzeerd."
+  ],
+  "runner#2|💬 Messages|Conversation paused\u0004⏸ Paused": [
+    null,
+    "⏸ Gepauzeerd"
+  ],
+  "runner#9|⚠ Errors|Rejected error\u0004Unfortunately, your data is marked as invalid and therefore rejected. If you believe this is a mistake, please contact the form owner. We're sorry for the inconvenience.": [
+    null,
+    "Helaas zijn uw gegevens gemarkeerd als ongeldig en daarom geweigerd. Als u denkt dat dit een vergissing is, neem dan contact op met de eigenaar van het formulier. Het spijt ons voor het ongemak."
+  ],
+  "runner#2|💬 Messages|Conversation ended\u0004🎉 It's a wrap!": [
+    null,
+    "🎉 Klaar!"
+  ]
+}

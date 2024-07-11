@@ -1,0 +1,30 @@
+{
+  "": {
+    "project-id-version": "tripetto/blocks/yes-no",
+    "report-msgid-bugs-to": "support@tripetto.com",
+    "pot-creation-date": "2020-10-09 14:47+0200",
+    "po-revision-date": "2020-10-09 14:48+0200",
+    "last-translator": "Mark van den Brink <mark@vandenbr.ink>",
+    "language-team": "Argo Crew - i18n <i18n+tripetto.app@argocrew.io>MIME-Version: 1.0",
+    "language": "pt_BR",
+    "mime-version": "1.0",
+    "content-type": "text/plain; charset=UTF-8",
+    "content-transfer-encoding": "8bit",
+    "x-generator": "Poedit 2.4.1"
+  },
+  "block:yes-no\u0004Answer": [null, "Resposta"],
+  "block:yes-no\u0004Display image on top of the paragraph": [
+    null,
+    "Exibir imagem em cima do parágrafo"
+  ],
+  "block:yes-no\u0004Image": [null, "Imagem"],
+  "block:yes-no\u0004Image source URL": [null, "URL da fonte da imagem"],
+  "block:yes-no\u0004Image width (optional)": [
+    null,
+    "Largura da imagem (opcional)"
+  ],
+  "block:yes-no\u0004Labels": [null, "Rótulos"],
+  "block:yes-no\u0004No": [null, "Não"],
+  "block:yes-no\u0004Yes": [null, "Sim"],
+  "block:yes-no\u0004Yes/No": [null, "Sim/Não"]
+}

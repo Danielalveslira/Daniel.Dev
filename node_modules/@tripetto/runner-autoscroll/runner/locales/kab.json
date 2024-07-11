@@ -1,0 +1,128 @@
+{
+  "locale": "kab",
+  "domain": "kab",
+  "direction": "ltr",
+  "countryCode": "",
+  "country": "",
+  "countryNative": "",
+  "language": "Kabyle",
+  "languageNative": "Taqbaylit",
+  "translations": {
+    "months": {
+      "formatted": {
+        "abbreviated": [
+          "Yen",
+          "Fur",
+          "Meɣ",
+          "Yeb",
+          "May",
+          "Yun",
+          "Yul",
+          "Ɣuc",
+          "Cte",
+          "Tub",
+          "Nun",
+          "Duǧ"
+        ],
+        "narrow": ["Y", "F", "M", "Y", "M", "Y", "Y", "Ɣ", "C", "T", "N", "D"],
+        "wide": [
+          "Yennayer",
+          "Fuṛar",
+          "Meɣres",
+          "Yebrir",
+          "Mayyu",
+          "Yunyu",
+          "Yulyu",
+          "Ɣuct",
+          "Ctembeṛ",
+          "Tubeṛ",
+          "Nunembeṛ",
+          "Duǧembeṛ"
+        ]
+      },
+      "nominative": {
+        "abbreviated": [
+          "Yen",
+          "Fur",
+          "Meɣ",
+          "Yeb",
+          "May",
+          "Yun",
+          "Yul",
+          "Ɣuc",
+          "Cte",
+          "Tub",
+          "Nun",
+          "Duǧ"
+        ],
+        "narrow": ["Y", "F", "M", "Y", "M", "Y", "Y", "Ɣ", "C", "T", "N", "D"],
+        "wide": [
+          "Yennayer",
+          "Fuṛar",
+          "Meɣres",
+          "Yebrir",
+          "Mayyu",
+          "Yunyu",
+          "Yulyu",
+          "Ɣuct",
+          "Ctembeṛ",
+          "Tubeṛ",
+          "Nunembeṛ",
+          "Duǧembeṛ"
+        ]
+      }
+    },
+    "days": {
+      "formatted": {
+        "abbreviated": ["Yan", "San", "Kraḍ", "Kuẓ", "Sam", "Sḍis", "Say"],
+        "narrow": ["Y", "S", "K", "K", "S", "S", "S"],
+        "short": ["Yan", "San", "Kraḍ", "Kuẓ", "Sam", "Sḍis", "Say"],
+        "wide": [
+          "Yanass",
+          "Sanass",
+          "Kraḍass",
+          "Kuẓass",
+          "Samass",
+          "Sḍisass",
+          "Sayass"
+        ]
+      },
+      "nominative": {
+        "abbreviated": ["Yan", "San", "Kraḍ", "Kuẓ", "Sam", "Sḍis", "Say"],
+        "narrow": ["Y", "S", "K", "K", "S", "S", "S"],
+        "short": ["Yan", "San", "Kraḍ", "Kuẓ", "Sam", "Sḍis", "Say"],
+        "wide": [
+          "Yanass",
+          "Sanass",
+          "Kraḍass",
+          "Kuẓass",
+          "Samass",
+          "Sḍisass",
+          "Sayass"
+        ]
+      }
+    },
+    "time": { "AM": "n tufat", "PM": "n tmeddit" }
+  },
+  "formats": {
+    "date": {
+      "full": "EEEE d MMMM y",
+      "long": "d MMMM y",
+      "medium": "d MMM, y",
+      "short": "d/M/y"
+    },
+    "time": {
+      "full": "h:mm:ss a zzzz",
+      "long": "h:mm:ss a z",
+      "medium": "h:mm:ss a",
+      "short": "h:mm a"
+    },
+    "dateTime": {
+      "full": "{1} {0}",
+      "long": "{1} {0}",
+      "medium": "{1} {0}",
+      "short": "{1} {0}"
+    },
+    "numbers": { "decimals": ",", "grouping": " ", "minus": "-" }
+  }
+}

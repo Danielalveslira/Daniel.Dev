@@ -1,0 +1,128 @@
+{
+  "locale": "uz-Latn",
+  "domain": "uz",
+  "direction": "ltr",
+  "countryCode": "",
+  "country": "",
+  "countryNative": "",
+  "language": "Uzbek (Latin)",
+  "languageNative": "o‘zbek (lotin)",
+  "translations": {
+    "months": {
+      "formatted": {
+        "abbreviated": [
+          "yan",
+          "fev",
+          "mar",
+          "apr",
+          "may",
+          "iyn",
+          "iyl",
+          "avg",
+          "sen",
+          "okt",
+          "noy",
+          "dek"
+        ],
+        "narrow": ["Y", "F", "M", "A", "M", "I", "I", "A", "S", "O", "N", "D"],
+        "wide": [
+          "yanvar",
+          "fevral",
+          "mart",
+          "aprel",
+          "may",
+          "iyun",
+          "iyul",
+          "avgust",
+          "sentabr",
+          "oktabr",
+          "noyabr",
+          "dekabr"
+        ]
+      },
+      "nominative": {
+        "abbreviated": [
+          "Yan",
+          "Fev",
+          "Mar",
+          "Apr",
+          "May",
+          "Iyn",
+          "Iyl",
+          "Avg",
+          "Sen",
+          "Okt",
+          "Noy",
+          "Dek"
+        ],
+        "narrow": ["Y", "F", "M", "A", "M", "I", "I", "A", "S", "O", "N", "D"],
+        "wide": [
+          "Yanvar",
+          "Fevral",
+          "Mart",
+          "Aprel",
+          "May",
+          "Iyun",
+          "Iyul",
+          "Avgust",
+          "Sentabr",
+          "Oktabr",
+          "Noyabr",
+          "Dekabr"
+        ]
+      }
+    },
+    "days": {
+      "formatted": {
+        "abbreviated": ["Yak", "Dush", "Sesh", "Chor", "Pay", "Jum", "Shan"],
+        "narrow": ["Y", "D", "S", "C", "P", "J", "S"],
+        "short": ["Ya", "Du", "Se", "Ch", "Pa", "Ju", "Sh"],
+        "wide": [
+          "yakshanba",
+          "dushanba",
+          "seshanba",
+          "chorshanba",
+          "payshanba",
+          "juma",
+          "shanba"
+        ]
+      },
+      "nominative": {
+        "abbreviated": ["Yak", "Dush", "Sesh", "Chor", "Pay", "Jum", "Shan"],
+        "narrow": ["Y", "D", "S", "C", "P", "J", "S"],
+        "short": ["Ya", "Du", "Se", "Ch", "Pa", "Ju", "Sh"],
+        "wide": [
+          "yakshanba",
+          "dushanba",
+          "seshanba",
+          "chorshanba",
+          "payshanba",
+          "juma",
+          "shanba"
+        ]
+      }
+    },
+    "time": { "AM": "TO", "PM": "TK" }
+  },
+  "formats": {
+    "date": {
+      "full": "EEEE, d-MMMM, y",
+      "long": "d-MMMM, y",
+      "medium": "d-MMM, y",
+      "short": "dd/MM/yy"
+    },
+    "time": {
+      "full": "H:mm:ss (zzzz)",
+      "long": "H:mm:ss (z)",
+      "medium": "HH:mm:ss",
+      "short": "HH:mm"
+    },
+    "dateTime": {
+      "full": "{1}, {0}",
+      "long": "{1}, {0}",
+      "medium": "{1}, {0}",
+      "short": "{1}, {0}"
+    },
+    "numbers": { "decimals": ",", "grouping": " ", "minus": "-" }
+  }
+}

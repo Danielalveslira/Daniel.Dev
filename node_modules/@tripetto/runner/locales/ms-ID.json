@@ -1,0 +1,112 @@
+{
+  "locale": "ms-ID",
+  "domain": "ms",
+  "direction": "ltr",
+  "countryCode": "ID",
+  "country": "Indonesia",
+  "countryNative": "Indonesia",
+  "language": "Malay (Indonesia)",
+  "languageNative": "Melayu (Indonesia)",
+  "translations": {
+    "months": {
+      "formatted": {
+        "abbreviated": [
+          "Jan",
+          "Feb",
+          "Mac",
+          "Apr",
+          "Mei",
+          "Jun",
+          "Jul",
+          "Ogo",
+          "Sep",
+          "Okt",
+          "Nov",
+          "Dis"
+        ],
+        "narrow": ["J", "F", "M", "A", "M", "J", "J", "O", "S", "O", "N", "D"],
+        "wide": [
+          "Januari",
+          "Februari",
+          "Mac",
+          "April",
+          "Mei",
+          "Jun",
+          "Julai",
+          "Ogos",
+          "September",
+          "Oktober",
+          "November",
+          "Disember"
+        ]
+      },
+      "nominative": {
+        "abbreviated": [
+          "Jan",
+          "Feb",
+          "Mac",
+          "Apr",
+          "Mei",
+          "Jun",
+          "Jul",
+          "Ogo",
+          "Sep",
+          "Okt",
+          "Nov",
+          "Dis"
+        ],
+        "narrow": ["J", "F", "M", "A", "M", "J", "J", "O", "S", "O", "N", "D"],
+        "wide": [
+          "Januari",
+          "Februari",
+          "Mac",
+          "April",
+          "Mei",
+          "Jun",
+          "Julai",
+          "Ogos",
+          "September",
+          "Oktober",
+          "November",
+          "Disember"
+        ]
+      }
+    },
+    "days": {
+      "formatted": {
+        "abbreviated": ["Ahd", "Isn", "Sel", "Rab", "Kha", "Jum", "Sab"],
+        "narrow": ["A", "I", "S", "R", "K", "J", "S"],
+        "short": ["Ah", "Is", "Se", "Ra", "Kh", "Ju", "Sa"],
+        "wide": ["Ahad", "Isnin", "Selasa", "Rabu", "Khamis", "Jumaat", "Sabtu"]
+      },
+      "nominative": {
+        "abbreviated": ["Ahd", "Isn", "Sel", "Rab", "Kha", "Jum", "Sab"],
+        "narrow": ["A", "I", "S", "R", "K", "J", "S"],
+        "short": ["Ah", "Is", "Se", "Ra", "Kh", "Ju", "Sa"],
+        "wide": ["Ahad", "Isnin", "Selasa", "Rabu", "Khamis", "Jumaat", "Sabtu"]
+      }
+    },
+    "time": { "AM": "PG", "PM": "PTG" }
+  },
+  "formats": {
+    "date": {
+      "full": "EEEE, dd MMMM y",
+      "long": "d MMMM y",
+      "medium": "d MMM y",
+      "short": "dd/MM/yy"
+    },
+    "time": {
+      "full": "HH.mm.ss zzzz",
+      "long": "HH.mm.ss z",
+      "medium": "HH.mm.ss",
+      "short": "HH.mm"
+    },
+    "dateTime": {
+      "full": "{1} {0}",
+      "long": "{1} {0}",
+      "medium": "{1}, {0}",
+      "short": "{1}, {0}"
+    },
+    "numbers": { "decimals": ",", "grouping": ".", "minus": "-" }
+  }
+}

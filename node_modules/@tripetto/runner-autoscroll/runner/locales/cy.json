@@ -1,0 +1,154 @@
+{
+  "locale": "cy",
+  "domain": "cy",
+  "direction": "ltr",
+  "countryCode": "",
+  "country": "",
+  "countryNative": "",
+  "language": "Welsh",
+  "languageNative": "Cymraeg",
+  "translations": {
+    "months": {
+      "formatted": {
+        "abbreviated": [
+          "Ion",
+          "Chwef",
+          "Maw",
+          "Ebr",
+          "Mai",
+          "Meh",
+          "Gorff",
+          "Awst",
+          "Medi",
+          "Hyd",
+          "Tach",
+          "Rhag"
+        ],
+        "narrow": [
+          "I",
+          "Ch",
+          "M",
+          "E",
+          "M",
+          "M",
+          "G",
+          "A",
+          "M",
+          "H",
+          "T",
+          "Rh"
+        ],
+        "wide": [
+          "Ionawr",
+          "Chwefror",
+          "Mawrth",
+          "Ebrill",
+          "Mai",
+          "Mehefin",
+          "Gorffennaf",
+          "Awst",
+          "Medi",
+          "Hydref",
+          "Tachwedd",
+          "Rhagfyr"
+        ]
+      },
+      "nominative": {
+        "abbreviated": [
+          "Ion",
+          "Chw",
+          "Maw",
+          "Ebr",
+          "Mai",
+          "Meh",
+          "Gor",
+          "Awst",
+          "Medi",
+          "Hyd",
+          "Tach",
+          "Rhag"
+        ],
+        "narrow": [
+          "I",
+          "Ch",
+          "M",
+          "E",
+          "M",
+          "M",
+          "G",
+          "A",
+          "M",
+          "H",
+          "T",
+          "Rh"
+        ],
+        "wide": [
+          "Ionawr",
+          "Chwefror",
+          "Mawrth",
+          "Ebrill",
+          "Mai",
+          "Mehefin",
+          "Gorffennaf",
+          "Awst",
+          "Medi",
+          "Hydref",
+          "Tachwedd",
+          "Rhagfyr"
+        ]
+      }
+    },
+    "days": {
+      "formatted": {
+        "abbreviated": ["Sul", "Llun", "Maw", "Mer", "Iau", "Gwen", "Sad"],
+        "narrow": ["S", "Ll", "M", "M", "I", "G", "S"],
+        "short": ["Su", "Ll", "Ma", "Me", "Ia", "Gw", "Sa"],
+        "wide": [
+          "Dydd Sul",
+          "Dydd Llun",
+          "Dydd Mawrth",
+          "Dydd Mercher",
+          "Dydd Iau",
+          "Dydd Gwener",
+          "Dydd Sadwrn"
+        ]
+      },
+      "nominative": {
+        "abbreviated": ["Sul", "Llun", "Maw", "Mer", "Iau", "Gwe", "Sad"],
+        "narrow": ["S", "Ll", "M", "M", "I", "G", "S"],
+        "short": ["Su", "Ll", "Ma", "Me", "Ia", "Gw", "Sa"],
+        "wide": [
+          "Dydd Sul",
+          "Dydd Llun",
+          "Dydd Mawrth",
+          "Dydd Mercher",
+          "Dydd Iau",
+          "Dydd Gwener",
+          "Dydd Sadwrn"
+        ]
+      }
+    },
+    "time": { "AM": "AM", "PM": "PM" }
+  },
+  "formats": {
+    "date": {
+      "full": "EEEE, d MMMM y",
+      "long": "d MMMM y",
+      "medium": "d MMM y",
+      "short": "dd/MM/yy"
+    },
+    "time": {
+      "full": "HH:mm:ss zzzz",
+      "long": "HH:mm:ss z",
+      "medium": "HH:mm:ss",
+      "short": "HH:mm"
+    },
+    "dateTime": {
+      "full": "{1}, {0}",
+      "long": "{1}, {0}",
+      "medium": "{1} {0}",
+      "short": "{1} {0}"
+    },
+    "numbers": { "decimals": ".", "grouping": ",", "minus": "-" }
+  }
+}

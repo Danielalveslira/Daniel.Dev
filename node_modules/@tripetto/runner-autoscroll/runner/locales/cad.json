@@ -1,0 +1,186 @@
+{
+  "locale": "cad",
+  "domain": "cad",
+  "direction": "ltr",
+  "countryCode": "",
+  "country": "",
+  "countryNative": "",
+  "language": "Caddo",
+  "languageNative": "Caddo",
+  "translations": {
+    "months": {
+      "formatted": {
+        "abbreviated": [
+          "Cháykáhday Haˀimay",
+          "Tsahkápbiˀ",
+          "Wánit",
+          "Háshnihtiˀtiˀ",
+          "Háshnih Haˀimay",
+          "Háshnihtsiˀ",
+          "Násˀahˀatsus",
+          "Dahósikah nish",
+          "Híisikah nish",
+          "Nípbaatiˀtiˀ",
+          "Nípbaa Haˀimay",
+          "Cháykáhdaytiˀtiˀ"
+        ],
+        "narrow": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12"
+        ],
+        "wide": [
+          "Cháykáhday Haˀimay",
+          "Tsahkápbiˀ",
+          "Wánit",
+          "Háshnihtiˀtiˀ",
+          "Háshnih Haˀimay",
+          "Háshnihtsiˀ",
+          "Násˀahˀatsus",
+          "Dahósikah nish",
+          "Híisikah nish",
+          "Nípbaatiˀtiˀ",
+          "Nípbaa Haˀimay",
+          "Cháykáhdaytiˀtiˀ"
+        ]
+      },
+      "nominative": {
+        "abbreviated": [
+          "Cháykáhday Haˀimay",
+          "Tsahkápbiˀ",
+          "Wánit",
+          "Háshnihtiˀtiˀ",
+          "Háshnih Haˀimay",
+          "Háshnihtsiˀ",
+          "Násˀahˀatsus",
+          "Dahósikah nish",
+          "Híisikah nish",
+          "Nípbaatiˀtiˀ",
+          "Nípbaa Haˀimay",
+          "Cháykáhdaytiˀtiˀ"
+        ],
+        "narrow": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12"
+        ],
+        "wide": [
+          "Cháykáhday Haˀimay",
+          "Tsahkápbiˀ",
+          "Wánit",
+          "Háshnihtiˀtiˀ",
+          "Háshnih Haˀimay",
+          "Háshnihtsiˀ",
+          "Násˀahˀatsus",
+          "Dahósikah nish",
+          "Híisikah nish",
+          "Nípbaatiˀtiˀ",
+          "Nípbaa Haˀimay",
+          "Cháykáhdaytiˀtiˀ"
+        ]
+      }
+    },
+    "days": {
+      "formatted": {
+        "abbreviated": [
+          "Inikuˀ",
+          "Wísts’i hayashuh",
+          "Bít hayashuh",
+          "Dahó hayashuh",
+          "Hiwí hayashuh",
+          "Dissik’an hayashuh",
+          "Inikuˀtiˀtiˀ"
+        ],
+        "narrow": ["S", "M", "T", "W", "T", "F", "S"],
+        "short": [
+          "Inikuˀ",
+          "Wísts’i hayashuh",
+          "Bít hayashuh",
+          "Dahó hayashuh",
+          "Hiwí hayashuh",
+          "Dissik’an hayashuh",
+          "Inikuˀtiˀtiˀ"
+        ],
+        "wide": [
+          "Inikuˀ",
+          "Wísts’i hayashuh",
+          "Bít hayashuh",
+          "Dahó hayashuh",
+          "Hiwí hayashuh",
+          "Dissik’an hayashuh",
+          "Inikuˀtiˀtiˀ"
+        ]
+      },
+      "nominative": {
+        "abbreviated": [
+          "Inikuˀ",
+          "Wísts’i hayashuh",
+          "Bít hayashuh",
+          "Dahó hayashuh",
+          "Hiwí hayashuh",
+          "Dissik’an hayashuh",
+          "Inikuˀtiˀtiˀ"
+        ],
+        "narrow": ["S", "M", "T", "W", "T", "F", "S"],
+        "short": [
+          "Inikuˀ",
+          "Wísts’i hayashuh",
+          "Bít hayashuh",
+          "Dahó hayashuh",
+          "Hiwí hayashuh",
+          "Dissik’an hayashuh",
+          "Inikuˀtiˀtiˀ"
+        ],
+        "wide": [
+          "Inikuˀ",
+          "Wísts’i hayashuh",
+          "Bít hayashuh",
+          "Dahó hayashuh",
+          "Hiwí hayashuh",
+          "Dissik’an hayashuh",
+          "Inikuˀtiˀtiˀ"
+        ]
+      }
+    },
+    "time": { "AM": "AM", "PM": "PM" }
+  },
+  "formats": {
+    "date": {
+      "full": "y MMMM d, EEEE",
+      "long": "y MMMM d",
+      "medium": "y MMM d",
+      "short": "y-MM-dd"
+    },
+    "time": {
+      "full": "HH:mm:ss zzzz",
+      "long": "HH:mm:ss z",
+      "medium": "HH:mm:ss",
+      "short": "HH:mm"
+    },
+    "dateTime": {
+      "full": "{1} {0}",
+      "long": "{1} {0}",
+      "medium": "{1} {0}",
+      "short": "{1} {0}"
+    },
+    "numbers": { "decimals": ".", "grouping": ",", "minus": "-" }
+  }
+}

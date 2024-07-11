@@ -1,0 +1,128 @@
+{
+  "locale": "kln",
+  "domain": "kln",
+  "direction": "ltr",
+  "countryCode": "",
+  "country": "",
+  "countryNative": "",
+  "language": "Kalenjin",
+  "languageNative": "Kalenjin",
+  "translations": {
+    "months": {
+      "formatted": {
+        "abbreviated": [
+          "Mul",
+          "Ngat",
+          "Taa",
+          "Iwo",
+          "Mam",
+          "Paa",
+          "Nge",
+          "Roo",
+          "Bur",
+          "Epe",
+          "Kpt",
+          "Kpa"
+        ],
+        "narrow": ["M", "N", "T", "I", "M", "P", "N", "R", "B", "E", "K", "K"],
+        "wide": [
+          "Mulgul",
+          "Ng’atyaato",
+          "Kiptaamo",
+          "Iwootkuut",
+          "Mamuut",
+          "Paagi",
+          "Ng’eiyeet",
+          "Rooptui",
+          "Bureet",
+          "Epeeso",
+          "Kipsuunde ne taai",
+          "Kipsuunde nebo aeng’"
+        ]
+      },
+      "nominative": {
+        "abbreviated": [
+          "Mul",
+          "Ngat",
+          "Taa",
+          "Iwo",
+          "Mam",
+          "Paa",
+          "Nge",
+          "Roo",
+          "Bur",
+          "Epe",
+          "Kpt",
+          "Kpa"
+        ],
+        "narrow": ["M", "N", "T", "I", "M", "P", "N", "R", "B", "E", "K", "K"],
+        "wide": [
+          "Mulgul",
+          "Ng’atyaato",
+          "Kiptaamo",
+          "Iwootkuut",
+          "Mamuut",
+          "Paagi",
+          "Ng’eiyeet",
+          "Rooptui",
+          "Bureet",
+          "Epeeso",
+          "Kipsuunde ne taai",
+          "Kipsuunde nebo aeng’"
+        ]
+      }
+    },
+    "days": {
+      "formatted": {
+        "abbreviated": ["Kts", "Kot", "Koo", "Kos", "Koa", "Kom", "Kol"],
+        "narrow": ["T", "T", "O", "S", "A", "M", "L"],
+        "short": ["Kts", "Kot", "Koo", "Kos", "Koa", "Kom", "Kol"],
+        "wide": [
+          "Kotisap",
+          "Kotaai",
+          "Koaeng’",
+          "Kosomok",
+          "Koang’wan",
+          "Komuut",
+          "Kolo"
+        ]
+      },
+      "nominative": {
+        "abbreviated": ["Kts", "Kot", "Koo", "Kos", "Koa", "Kom", "Kol"],
+        "narrow": ["T", "T", "O", "S", "A", "M", "L"],
+        "short": ["Kts", "Kot", "Koo", "Kos", "Koa", "Kom", "Kol"],
+        "wide": [
+          "Kotisap",
+          "Kotaai",
+          "Koaeng’",
+          "Kosomok",
+          "Koang’wan",
+          "Komuut",
+          "Kolo"
+        ]
+      }
+    },
+    "time": { "AM": "krn", "PM": "koosk" }
+  },
+  "formats": {
+    "date": {
+      "full": "EEEE, d MMMM y",
+      "long": "d MMMM y",
+      "medium": "d MMM y",
+      "short": "dd/MM/y"
+    },
+    "time": {
+      "full": "HH:mm:ss zzzz",
+      "long": "HH:mm:ss z",
+      "medium": "HH:mm:ss",
+      "short": "HH:mm"
+    },
+    "dateTime": {
+      "full": "{1} {0}",
+      "long": "{1} {0}",
+      "medium": "{1} {0}",
+      "short": "{1} {0}"
+    },
+    "numbers": { "decimals": ".", "grouping": ",", "minus": "-" }
+  }
+}

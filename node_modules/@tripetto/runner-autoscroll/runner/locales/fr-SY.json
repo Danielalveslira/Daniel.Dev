@@ -1,0 +1,128 @@
+{
+  "locale": "fr-SY",
+  "domain": "fr",
+  "direction": "ltr",
+  "countryCode": "SY",
+  "country": "Syria",
+  "countryNative": "Syrie",
+  "language": "French (Syria)",
+  "languageNative": "français (Syrie)",
+  "translations": {
+    "months": {
+      "formatted": {
+        "abbreviated": [
+          "janv.",
+          "févr.",
+          "mars",
+          "avr.",
+          "mai",
+          "juin",
+          "juil.",
+          "août",
+          "sept.",
+          "oct.",
+          "nov.",
+          "déc."
+        ],
+        "narrow": ["J", "F", "M", "A", "M", "J", "J", "A", "S", "O", "N", "D"],
+        "wide": [
+          "janvier",
+          "février",
+          "mars",
+          "avril",
+          "mai",
+          "juin",
+          "juillet",
+          "août",
+          "septembre",
+          "octobre",
+          "novembre",
+          "décembre"
+        ]
+      },
+      "nominative": {
+        "abbreviated": [
+          "janv.",
+          "févr.",
+          "mars",
+          "avr.",
+          "mai",
+          "juin",
+          "juil.",
+          "août",
+          "sept.",
+          "oct.",
+          "nov.",
+          "déc."
+        ],
+        "narrow": ["J", "F", "M", "A", "M", "J", "J", "A", "S", "O", "N", "D"],
+        "wide": [
+          "janvier",
+          "février",
+          "mars",
+          "avril",
+          "mai",
+          "juin",
+          "juillet",
+          "août",
+          "septembre",
+          "octobre",
+          "novembre",
+          "décembre"
+        ]
+      }
+    },
+    "days": {
+      "formatted": {
+        "abbreviated": ["dim.", "lun.", "mar.", "mer.", "jeu.", "ven.", "sam."],
+        "narrow": ["D", "L", "M", "M", "J", "V", "S"],
+        "short": ["di", "lu", "ma", "me", "je", "ve", "sa"],
+        "wide": [
+          "dimanche",
+          "lundi",
+          "mardi",
+          "mercredi",
+          "jeudi",
+          "vendredi",
+          "samedi"
+        ]
+      },
+      "nominative": {
+        "abbreviated": ["dim.", "lun.", "mar.", "mer.", "jeu.", "ven.", "sam."],
+        "narrow": ["D", "L", "M", "M", "J", "V", "S"],
+        "short": ["di", "lu", "ma", "me", "je", "ve", "sa"],
+        "wide": [
+          "dimanche",
+          "lundi",
+          "mardi",
+          "mercredi",
+          "jeudi",
+          "vendredi",
+          "samedi"
+        ]
+      }
+    },
+    "time": { "AM": "AM", "PM": "PM" }
+  },
+  "formats": {
+    "date": {
+      "full": "EEEE d MMMM y",
+      "long": "d MMMM y",
+      "medium": "d MMM y",
+      "short": "dd/MM/y"
+    },
+    "time": {
+      "full": "h:mm:ss a zzzz",
+      "long": "h:mm:ss a z",
+      "medium": "h:mm:ss a",
+      "short": "h:mm a"
+    },
+    "dateTime": {
+      "full": "{1}, {0}",
+      "long": "{1}, {0}",
+      "medium": "{1}, {0}",
+      "short": "{1} {0}"
+    },
+    "numbers": { "decimals": ",", "grouping": " ", "minus": "-" }
+  }
+}

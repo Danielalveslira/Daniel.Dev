@@ -1,0 +1,128 @@
+{
+  "locale": "dyo",
+  "domain": "dyo",
+  "direction": "ltr",
+  "countryCode": "",
+  "country": "",
+  "countryNative": "",
+  "language": "Jola-Fonyi",
+  "languageNative": "joola",
+  "translations": {
+    "months": {
+      "formatted": {
+        "abbreviated": [
+          "Sa",
+          "Fe",
+          "Ma",
+          "Ab",
+          "Me",
+          "Su",
+          "Sú",
+          "Ut",
+          "Se",
+          "Ok",
+          "No",
+          "De"
+        ],
+        "narrow": ["S", "F", "M", "A", "M", "S", "S", "U", "S", "O", "N", "D"],
+        "wide": [
+          "Sanvie",
+          "Fébirie",
+          "Mars",
+          "Aburil",
+          "Mee",
+          "Sueŋ",
+          "Súuyee",
+          "Ut",
+          "Settembar",
+          "Oktobar",
+          "Novembar",
+          "Disambar"
+        ]
+      },
+      "nominative": {
+        "abbreviated": [
+          "Sa",
+          "Fe",
+          "Ma",
+          "Ab",
+          "Me",
+          "Su",
+          "Sú",
+          "Ut",
+          "Se",
+          "Ok",
+          "No",
+          "De"
+        ],
+        "narrow": ["S", "F", "M", "A", "M", "S", "S", "U", "S", "O", "N", "D"],
+        "wide": [
+          "Sanvie",
+          "Fébirie",
+          "Mars",
+          "Aburil",
+          "Mee",
+          "Sueŋ",
+          "Súuyee",
+          "Ut",
+          "Settembar",
+          "Oktobar",
+          "Novembar",
+          "Disambar"
+        ]
+      }
+    },
+    "days": {
+      "formatted": {
+        "abbreviated": ["Dim", "Ten", "Tal", "Ala", "Ara", "Arj", "Sib"],
+        "narrow": ["D", "T", "T", "A", "A", "A", "S"],
+        "short": ["Dim", "Ten", "Tal", "Ala", "Ara", "Arj", "Sib"],
+        "wide": [
+          "Dimas",
+          "Teneŋ",
+          "Talata",
+          "Alarbay",
+          "Aramisay",
+          "Arjuma",
+          "Sibiti"
+        ]
+      },
+      "nominative": {
+        "abbreviated": ["Dim", "Ten", "Tal", "Ala", "Ara", "Arj", "Sib"],
+        "narrow": ["D", "T", "T", "A", "A", "A", "S"],
+        "short": ["Dim", "Ten", "Tal", "Ala", "Ara", "Arj", "Sib"],
+        "wide": [
+          "Dimas",
+          "Teneŋ",
+          "Talata",
+          "Alarbay",
+          "Aramisay",
+          "Arjuma",
+          "Sibiti"
+        ]
+      }
+    },
+    "time": { "AM": "AM", "PM": "PM" }
+  },
+  "formats": {
+    "date": {
+      "full": "EEEE d MMMM y",
+      "long": "d MMMM y",
+      "medium": "d MMM y",
+      "short": "d/M/y"
+    },
+    "time": {
+      "full": "HH:mm:ss zzzz",
+      "long": "HH:mm:ss z",
+      "medium": "HH:mm:ss",
+      "short": "HH:mm"
+    },
+    "dateTime": {
+      "full": "{1} {0}",
+      "long": "{1} {0}",
+      "medium": "{1} {0}",
+      "short": "{1} {0}"
+    },
+    "numbers": { "decimals": ",", "grouping": " ", "minus": "-" }
+  }
+}

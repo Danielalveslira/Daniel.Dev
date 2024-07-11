@@ -1,0 +1,154 @@
+{
+  "locale": "kgp",
+  "domain": "kgp",
+  "direction": "ltr",
+  "countryCode": "",
+  "country": "",
+  "countryNative": "",
+  "language": "Kaingang",
+  "languageNative": "kanhgág",
+  "translations": {
+    "months": {
+      "formatted": {
+        "abbreviated": [
+          "1Ky.",
+          "2Ky.",
+          "3Ky.",
+          "4Ky.",
+          "5Ky.",
+          "6Ky.",
+          "7Ky.",
+          "8Ky.",
+          "9Ky.",
+          "10Ky.",
+          "11Ky.",
+          "12Ky."
+        ],
+        "narrow": [
+          "1K",
+          "2K",
+          "3K",
+          "4K",
+          "5K",
+          "6K",
+          "7K",
+          "8K",
+          "9K",
+          "10K",
+          "11K",
+          "12K"
+        ],
+        "wide": [
+          "1-Kysã",
+          "2-Kysã",
+          "3-Kysã",
+          "4-Kysã",
+          "5-Kysã",
+          "6-Kysã",
+          "7-Kysã",
+          "8-Kysã",
+          "9-Kysã",
+          "10-Kysã",
+          "11-Kysã",
+          "12-Kysã"
+        ]
+      },
+      "nominative": {
+        "abbreviated": [
+          "1Ky.",
+          "2Ky.",
+          "3Ky.",
+          "4Ky.",
+          "5Ky.",
+          "6Ky.",
+          "7Ky.",
+          "8Ky.",
+          "9Ky.",
+          "10Ky.",
+          "11Ky.",
+          "12Ky."
+        ],
+        "narrow": [
+          "1K",
+          "2K",
+          "3K",
+          "4K",
+          "5K",
+          "6K",
+          "7K",
+          "8K",
+          "9K",
+          "10K",
+          "11K",
+          "12K"
+        ],
+        "wide": [
+          "1-Kysã",
+          "2-Kysã",
+          "3-Kysã",
+          "4-Kysã",
+          "5-Kysã",
+          "6-Kysã",
+          "7-Kysã",
+          "8-Kysã",
+          "9-Kysã",
+          "10-Kysã",
+          "11-Kysã",
+          "12-Kysã"
+        ]
+      }
+    },
+    "days": {
+      "formatted": {
+        "abbreviated": ["num.", "pir.", "rég.", "tẽg.", "vẽn.", "pén.", "sav."],
+        "narrow": ["N.", "P.", "R.", "T.", "V.", "P.", "S."],
+        "short": ["N.", "1kh.", "2kh.", "3kh.", "4kh.", "5kh.", "S."],
+        "wide": [
+          "numĩggu",
+          "pir-kurã-há",
+          "régre-kurã-há",
+          "tẽgtũ-kurã-há",
+          "vẽnhkãgra-kurã-há",
+          "pénkar-kurã-há",
+          "savnu"
+        ]
+      },
+      "nominative": {
+        "abbreviated": ["num.", "pir.", "rég.", "tẽg.", "vẽn.", "pén.", "sav."],
+        "narrow": ["N.", "P.", "R.", "T.", "V.", "P.", "S."],
+        "short": ["N.", "1kh.", "2kh.", "3kh.", "4kh.", "5kh.", "S."],
+        "wide": [
+          "numĩggu",
+          "pir-kurã-há",
+          "régre-kurã-há",
+          "tẽgtũ-kurã-há",
+          "vẽnhkãgra-kurã-há",
+          "pénkar-kurã-há",
+          "savnu"
+        ]
+      }
+    },
+    "time": { "AM": "AM", "PM": "PM" }
+  },
+  "formats": {
+    "date": {
+      "full": "EEEE, d 'ne' MMMM, y",
+      "long": "d 'ne' MMMM, y",
+      "medium": "d 'ne' MMM, y",
+      "short": "dd/MM/y"
+    },
+    "time": {
+      "full": "HH:mm:ss zzzz",
+      "long": "HH:mm:ss z",
+      "medium": "HH:mm:ss",
+      "short": "HH:mm"
+    },
+    "dateTime": {
+      "full": "{1} {0}",
+      "long": "{1} {0}",
+      "medium": "{1} {0}",
+      "short": "{1} {0}"
+    },
+    "numbers": { "decimals": ",", "grouping": ".", "minus": "-" }
+  }
+}

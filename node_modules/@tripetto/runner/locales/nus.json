@@ -1,0 +1,144 @@
+{
+  "locale": "nus",
+  "domain": "nus",
+  "direction": "ltr",
+  "countryCode": "",
+  "country": "",
+  "countryNative": "",
+  "language": "Nuer",
+  "languageNative": "Thok Nath",
+  "translations": {
+    "months": {
+      "formatted": {
+        "abbreviated": [
+          "Tiop",
+          "Pɛt",
+          "Duɔ̱ɔ̱",
+          "Guak",
+          "Duä",
+          "Kor",
+          "Pay",
+          "Thoo",
+          "Tɛɛ",
+          "Laa",
+          "Kur",
+          "Tid"
+        ],
+        "narrow": ["T", "P", "D", "G", "D", "K", "P", "T", "T", "L", "K", "T"],
+        "wide": [
+          "Tiop thar pɛt",
+          "Pɛt",
+          "Duɔ̱ɔ̱ŋ",
+          "Guak",
+          "Duät",
+          "Kornyoot",
+          "Pay yie̱tni",
+          "Tho̱o̱r",
+          "Tɛɛr",
+          "Laath",
+          "Kur",
+          "Tio̱p in di̱i̱t"
+        ]
+      },
+      "nominative": {
+        "abbreviated": [
+          "Tiop",
+          "Pɛt",
+          "Duɔ̱ɔ̱",
+          "Guak",
+          "Duä",
+          "Kor",
+          "Pay",
+          "Thoo",
+          "Tɛɛ",
+          "Laa",
+          "Kur",
+          "Tid"
+        ],
+        "narrow": ["T", "P", "D", "G", "D", "K", "P", "T", "T", "L", "K", "T"],
+        "wide": [
+          "Tiop thar pɛt",
+          "Pɛt",
+          "Duɔ̱ɔ̱ŋ",
+          "Guak",
+          "Duät",
+          "Kornyoot",
+          "Pay yie̱tni",
+          "Tho̱o̱r",
+          "Tɛɛr",
+          "Laath",
+          "Kur",
+          "Tio̱p in di̱i̱t"
+        ]
+      }
+    },
+    "days": {
+      "formatted": {
+        "abbreviated": [
+          "Cäŋ",
+          "Jiec",
+          "Rɛw",
+          "Diɔ̱k",
+          "Ŋuaan",
+          "Dhieec",
+          "Bäkɛl"
+        ],
+        "narrow": ["C", "J", "R", "D", "Ŋ", "D", "B"],
+        "short": ["Cäŋ", "Jiec", "Rɛw", "Diɔ̱k", "Ŋuaan", "Dhieec", "Bäkɛl"],
+        "wide": [
+          "Cäŋ kuɔth",
+          "Jiec la̱t",
+          "Rɛw lätni",
+          "Diɔ̱k lätni",
+          "Ŋuaan lätni",
+          "Dhieec lätni",
+          "Bäkɛl lätni"
+        ]
+      },
+      "nominative": {
+        "abbreviated": [
+          "Cäŋ",
+          "Jiec",
+          "Rɛw",
+          "Diɔ̱k",
+          "Ŋuaan",
+          "Dhieec",
+          "Bäkɛl"
+        ],
+        "narrow": ["C", "J", "R", "D", "Ŋ", "D", "B"],
+        "short": ["Cäŋ", "Jiec", "Rɛw", "Diɔ̱k", "Ŋuaan", "Dhieec", "Bäkɛl"],
+        "wide": [
+          "Cäŋ kuɔth",
+          "Jiec la̱t",
+          "Rɛw lätni",
+          "Diɔ̱k lätni",
+          "Ŋuaan lätni",
+          "Dhieec lätni",
+          "Bäkɛl lätni"
+        ]
+      }
+    },
+    "time": { "AM": "RW", "PM": "TŊ" }
+  },
+  "formats": {
+    "date": {
+      "full": "EEEE d MMMM y",
+      "long": "d MMMM y",
+      "medium": "d MMM y",
+      "short": "d/MM/y"
+    },
+    "time": {
+      "full": "zzzz h:mm:ss a",
+      "long": "z h:mm:ss a",
+      "medium": "h:mm:ss a",
+      "short": "h:mm a"
+    },
+    "dateTime": {
+      "full": "{1} {0}",
+      "long": "{1} {0}",
+      "medium": "{1} {0}",
+      "short": "{1} {0}"
+    },
+    "numbers": { "decimals": ".", "grouping": ",", "minus": "-" }
+  }
+}

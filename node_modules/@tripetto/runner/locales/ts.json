@@ -1,0 +1,154 @@
+{
+  "locale": "ts",
+  "domain": "ts",
+  "direction": "ltr",
+  "countryCode": "",
+  "country": "",
+  "countryNative": "",
+  "language": "Tsonga",
+  "languageNative": "Tsonga",
+  "translations": {
+    "months": {
+      "formatted": {
+        "abbreviated": [
+          "Sun",
+          "Yan",
+          "Kul",
+          "Dzi",
+          "Mud",
+          "Kho",
+          "Maw",
+          "Mha",
+          "Ndz",
+          "Nhl",
+          "Huk",
+          "N’w"
+        ],
+        "narrow": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12"
+        ],
+        "wide": [
+          "Sunguti",
+          "Nyenyenyani",
+          "Nyenyankulu",
+          "Dzivamisoko",
+          "Mudyaxihi",
+          "Khotavuxika",
+          "Mawuwani",
+          "Mhawuri",
+          "Ndzhati",
+          "Nhlangula",
+          "Hukuri",
+          "N’wendzamhala"
+        ]
+      },
+      "nominative": {
+        "abbreviated": [
+          "Sun",
+          "Yan",
+          "Kul",
+          "Dzi",
+          "Mud",
+          "Kho",
+          "Maw",
+          "Mha",
+          "Ndz",
+          "Nhl",
+          "Huk",
+          "N’w"
+        ],
+        "narrow": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12"
+        ],
+        "wide": [
+          "Sunguti",
+          "Nyenyenyani",
+          "Nyenyankulu",
+          "Dzivamisoko",
+          "Mudyaxihi",
+          "Khotavuxika",
+          "Mawuwani",
+          "Mhawuri",
+          "Ndzhati",
+          "Nhlangula",
+          "Hukuri",
+          "N’wendzamhala"
+        ]
+      }
+    },
+    "days": {
+      "formatted": {
+        "abbreviated": ["Son", "Mus", "Bir", "Har", "Ne", "Tlh", "Mug"],
+        "narrow": ["S", "M", "T", "W", "T", "F", "S"],
+        "short": ["Son", "Mus", "Bir", "Har", "Ne", "Tlh", "Mug"],
+        "wide": [
+          "Sonta",
+          "Musumbhunuku",
+          "Ravumbirhi",
+          "Ravunharhu",
+          "Ravumune",
+          "Ravuntlhanu",
+          "Mugqivela"
+        ]
+      },
+      "nominative": {
+        "abbreviated": ["Son", "Mus", "Bir", "Har", "Ne", "Tlh", "Mug"],
+        "narrow": ["S", "M", "T", "W", "T", "F", "S"],
+        "short": ["Son", "Mus", "Bir", "Har", "Ne", "Tlh", "Mug"],
+        "wide": [
+          "Sonta",
+          "Musumbhunuku",
+          "Ravumbirhi",
+          "Ravunharhu",
+          "Ravumune",
+          "Ravuntlhanu",
+          "Mugqivela"
+        ]
+      }
+    },
+    "time": { "AM": "AM", "PM": "PM" }
+  },
+  "formats": {
+    "date": {
+      "full": "y MMMM d, EEEE",
+      "long": "y MMMM d",
+      "medium": "y MMM d",
+      "short": "y-MM-dd"
+    },
+    "time": {
+      "full": "HH:mm:ss zzzz",
+      "long": "HH:mm:ss z",
+      "medium": "HH:mm:ss",
+      "short": "HH:mm"
+    },
+    "dateTime": {
+      "full": "{1} {0}",
+      "long": "{1} {0}",
+      "medium": "{1} {0}",
+      "short": "{1} {0}"
+    },
+    "numbers": { "decimals": ",", "grouping": " ", "minus": "-" }
+  }
+}

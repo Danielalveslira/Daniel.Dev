@@ -1,0 +1,128 @@
+{
+  "locale": "lb",
+  "domain": "lb",
+  "direction": "ltr",
+  "countryCode": "",
+  "country": "",
+  "countryNative": "",
+  "language": "Luxembourgish",
+  "languageNative": "Lëtzebuergesch",
+  "translations": {
+    "months": {
+      "formatted": {
+        "abbreviated": [
+          "Jan.",
+          "Feb.",
+          "Mäe.",
+          "Abr.",
+          "Mee",
+          "Juni",
+          "Juli",
+          "Aug.",
+          "Sep.",
+          "Okt.",
+          "Nov.",
+          "Dez."
+        ],
+        "narrow": ["J", "F", "M", "A", "M", "J", "J", "A", "S", "O", "N", "D"],
+        "wide": [
+          "Januar",
+          "Februar",
+          "Mäerz",
+          "Abrëll",
+          "Mee",
+          "Juni",
+          "Juli",
+          "August",
+          "September",
+          "Oktober",
+          "November",
+          "Dezember"
+        ]
+      },
+      "nominative": {
+        "abbreviated": [
+          "Jan",
+          "Feb",
+          "Mäe",
+          "Abr",
+          "Mee",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Okt",
+          "Nov",
+          "Dez"
+        ],
+        "narrow": ["J", "F", "M", "A", "M", "J", "J", "A", "S", "O", "N", "D"],
+        "wide": [
+          "Januar",
+          "Februar",
+          "Mäerz",
+          "Abrëll",
+          "Mee",
+          "Juni",
+          "Juli",
+          "August",
+          "September",
+          "Oktober",
+          "November",
+          "Dezember"
+        ]
+      }
+    },
+    "days": {
+      "formatted": {
+        "abbreviated": ["Son.", "Méi.", "Dën.", "Mët.", "Don.", "Fre.", "Sam."],
+        "narrow": ["S", "M", "D", "M", "D", "F", "S"],
+        "short": ["So.", "Mé.", "Dë.", "Më.", "Do.", "Fr.", "Sa."],
+        "wide": [
+          "Sonndeg",
+          "Méindeg",
+          "Dënschdeg",
+          "Mëttwoch",
+          "Donneschdeg",
+          "Freideg",
+          "Samschdeg"
+        ]
+      },
+      "nominative": {
+        "abbreviated": ["Son", "Méi", "Dën", "Mët", "Don", "Fre", "Sam"],
+        "narrow": ["S", "M", "D", "M", "D", "F", "S"],
+        "short": ["So.", "Mé.", "Dë.", "Më.", "Do.", "Fr.", "Sa."],
+        "wide": [
+          "Sonndeg",
+          "Méindeg",
+          "Dënschdeg",
+          "Mëttwoch",
+          "Donneschdeg",
+          "Freideg",
+          "Samschdeg"
+        ]
+      }
+    },
+    "time": { "AM": "moies", "PM": "nomëttes" }
+  },
+  "formats": {
+    "date": {
+      "full": "EEEE, d. MMMM y",
+      "long": "d. MMMM y",
+      "medium": "d. MMM y",
+      "short": "dd.MM.yy"
+    },
+    "time": {
+      "full": "HH:mm:ss zzzz",
+      "long": "HH:mm:ss z",
+      "medium": "HH:mm:ss",
+      "short": "HH:mm"
+    },
+    "dateTime": {
+      "full": "{1} {0}",
+      "long": "{1} {0}",
+      "medium": "{1} {0}",
+      "short": "{1} {0}"
+    },
+    "numbers": { "decimals": ",", "grouping": ".", "minus": "-" }
+  }
+}

@@ -6,7 +6,10 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        'roboto-slab': ['Roboto Slab', 'serif'],
+        'roboto-slab': [
+          'Roboto Slab', 'serif',
+          'Fira Code', 'monospace'
+        ],
       },
       fontWeight: {
         'roboto-slab-light': 300,

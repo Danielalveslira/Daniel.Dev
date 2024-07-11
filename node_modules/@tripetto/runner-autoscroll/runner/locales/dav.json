@@ -1,0 +1,128 @@
+{
+  "locale": "dav",
+  "domain": "dav",
+  "direction": "ltr",
+  "countryCode": "",
+  "country": "",
+  "countryNative": "",
+  "language": "Taita",
+  "languageNative": "Kitaita",
+  "translations": {
+    "months": {
+      "formatted": {
+        "abbreviated": [
+          "Imb",
+          "Kaw",
+          "Kad",
+          "Kan",
+          "Kas",
+          "Kar",
+          "Mfu",
+          "Wun",
+          "Ike",
+          "Iku",
+          "Imw",
+          "Iwi"
+        ],
+        "narrow": ["I", "K", "K", "K", "K", "K", "M", "W", "I", "I", "I", "I"],
+        "wide": [
+          "Mori ghwa imbiri",
+          "Mori ghwa kawi",
+          "Mori ghwa kadadu",
+          "Mori ghwa kana",
+          "Mori ghwa kasanu",
+          "Mori ghwa karandadu",
+          "Mori ghwa mfungade",
+          "Mori ghwa wunyanya",
+          "Mori ghwa ikenda",
+          "Mori ghwa ikumi",
+          "Mori ghwa ikumi na imweri",
+          "Mori ghwa ikumi na iwi"
+        ]
+      },
+      "nominative": {
+        "abbreviated": [
+          "Imb",
+          "Kaw",
+          "Kad",
+          "Kan",
+          "Kas",
+          "Kar",
+          "Mfu",
+          "Wun",
+          "Ike",
+          "Iku",
+          "Imw",
+          "Iwi"
+        ],
+        "narrow": ["I", "K", "K", "K", "K", "K", "M", "W", "I", "I", "I", "I"],
+        "wide": [
+          "Mori ghwa imbiri",
+          "Mori ghwa kawi",
+          "Mori ghwa kadadu",
+          "Mori ghwa kana",
+          "Mori ghwa kasanu",
+          "Mori ghwa karandadu",
+          "Mori ghwa mfungade",
+          "Mori ghwa wunyanya",
+          "Mori ghwa ikenda",
+          "Mori ghwa ikumi",
+          "Mori ghwa ikumi na imweri",
+          "Mori ghwa ikumi na iwi"
+        ]
+      }
+    },
+    "days": {
+      "formatted": {
+        "abbreviated": ["Jum", "Jim", "Kaw", "Kad", "Kan", "Kas", "Ngu"],
+        "narrow": ["J", "J", "K", "K", "K", "K", "N"],
+        "short": ["Jum", "Jim", "Kaw", "Kad", "Kan", "Kas", "Ngu"],
+        "wide": [
+          "Ituku ja jumwa",
+          "Kuramuka jimweri",
+          "Kuramuka kawi",
+          "Kuramuka kadadu",
+          "Kuramuka kana",
+          "Kuramuka kasanu",
+          "Kifula nguwo"
+        ]
+      },
+      "nominative": {
+        "abbreviated": ["Jum", "Jim", "Kaw", "Kad", "Kan", "Kas", "Ngu"],
+        "narrow": ["J", "J", "K", "K", "K", "K", "N"],
+        "short": ["Jum", "Jim", "Kaw", "Kad", "Kan", "Kas", "Ngu"],
+        "wide": [
+          "Ituku ja jumwa",
+          "Kuramuka jimweri",
+          "Kuramuka kawi",
+          "Kuramuka kadadu",
+          "Kuramuka kana",
+          "Kuramuka kasanu",
+          "Kifula nguwo"
+        ]
+      }
+    },
+    "time": { "AM": "Luma lwa K", "PM": "luma lwa p" }
+  },
+  "formats": {
+    "date": {
+      "full": "EEEE, d MMMM y",
+      "long": "d MMMM y",
+      "medium": "d MMM y",
+      "short": "dd/MM/y"
+    },
+    "time": {
+      "full": "HH:mm:ss zzzz",
+      "long": "HH:mm:ss z",
+      "medium": "HH:mm:ss",
+      "short": "HH:mm"
+    },
+    "dateTime": {
+      "full": "{1} {0}",
+      "long": "{1} {0}",
+      "medium": "{1} {0}",
+      "short": "{1} {0}"
+    },
+    "numbers": { "decimals": ".", "grouping": ",", "minus": "-" }
+  }
+}

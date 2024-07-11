@@ -1,0 +1,128 @@
+{
+  "locale": "kam",
+  "domain": "kam",
+  "direction": "ltr",
+  "countryCode": "",
+  "country": "",
+  "countryNative": "",
+  "language": "Kamba",
+  "languageNative": "Kikamba",
+  "translations": {
+    "months": {
+      "formatted": {
+        "abbreviated": [
+          "Mbe",
+          "Kel",
+          "Ktũ",
+          "Kan",
+          "Ktn",
+          "Tha",
+          "Moo",
+          "Nya",
+          "Knd",
+          "Ĩku",
+          "Ĩkm",
+          "Ĩkl"
+        ],
+        "narrow": ["M", "K", "K", "K", "K", "T", "M", "N", "K", "Ĩ", "Ĩ", "Ĩ"],
+        "wide": [
+          "Mwai wa mbee",
+          "Mwai wa kelĩ",
+          "Mwai wa katatũ",
+          "Mwai wa kana",
+          "Mwai wa katano",
+          "Mwai wa thanthatũ",
+          "Mwai wa muonza",
+          "Mwai wa nyaanya",
+          "Mwai wa kenda",
+          "Mwai wa ĩkumi",
+          "Mwai wa ĩkumi na ĩmwe",
+          "Mwai wa ĩkumi na ilĩ"
+        ]
+      },
+      "nominative": {
+        "abbreviated": [
+          "Mbe",
+          "Kel",
+          "Ktũ",
+          "Kan",
+          "Ktn",
+          "Tha",
+          "Moo",
+          "Nya",
+          "Knd",
+          "Ĩku",
+          "Ĩkm",
+          "Ĩkl"
+        ],
+        "narrow": ["M", "K", "K", "K", "K", "T", "M", "N", "K", "Ĩ", "Ĩ", "Ĩ"],
+        "wide": [
+          "Mwai wa mbee",
+          "Mwai wa kelĩ",
+          "Mwai wa katatũ",
+          "Mwai wa kana",
+          "Mwai wa katano",
+          "Mwai wa thanthatũ",
+          "Mwai wa muonza",
+          "Mwai wa nyaanya",
+          "Mwai wa kenda",
+          "Mwai wa ĩkumi",
+          "Mwai wa ĩkumi na ĩmwe",
+          "Mwai wa ĩkumi na ilĩ"
+        ]
+      }
+    },
+    "days": {
+      "formatted": {
+        "abbreviated": ["Wky", "Wkw", "Wkl", "Wtũ", "Wkn", "Wtn", "Wth"],
+        "narrow": ["Y", "W", "E", "A", "A", "A", "A"],
+        "short": ["Wky", "Wkw", "Wkl", "Wtũ", "Wkn", "Wtn", "Wth"],
+        "wide": [
+          "Wa kyumwa",
+          "Wa kwambĩlĩlya",
+          "Wa kelĩ",
+          "Wa katatũ",
+          "Wa kana",
+          "Wa katano",
+          "Wa thanthatũ"
+        ]
+      },
+      "nominative": {
+        "abbreviated": ["Wky", "Wkw", "Wkl", "Wtũ", "Wkn", "Wtn", "Wth"],
+        "narrow": ["Y", "W", "E", "A", "A", "A", "A"],
+        "short": ["Wky", "Wkw", "Wkl", "Wtũ", "Wkn", "Wtn", "Wth"],
+        "wide": [
+          "Wa kyumwa",
+          "Wa kwambĩlĩlya",
+          "Wa kelĩ",
+          "Wa katatũ",
+          "Wa kana",
+          "Wa katano",
+          "Wa thanthatũ"
+        ]
+      }
+    },
+    "time": { "AM": "Ĩyakwakya", "PM": "Ĩyawĩoo" }
+  },
+  "formats": {
+    "date": {
+      "full": "EEEE, d MMMM y",
+      "long": "d MMMM y",
+      "medium": "d MMM y",
+      "short": "dd/MM/y"
+    },
+    "time": {
+      "full": "HH:mm:ss zzzz",
+      "long": "HH:mm:ss z",
+      "medium": "HH:mm:ss",
+      "short": "HH:mm"
+    },
+    "dateTime": {
+      "full": "{1} {0}",
+      "long": "{1} {0}",
+      "medium": "{1} {0}",
+      "short": "{1} {0}"
+    },
+    "numbers": { "decimals": ".", "grouping": ",", "minus": "-" }
+  }
+}

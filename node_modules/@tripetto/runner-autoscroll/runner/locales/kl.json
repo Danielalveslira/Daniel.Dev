@@ -1,0 +1,154 @@
+{
+  "locale": "kl",
+  "domain": "kl",
+  "direction": "ltr",
+  "countryCode": "",
+  "country": "",
+  "countryNative": "",
+  "language": "Kalaallisut",
+  "languageNative": "kalaallisut",
+  "translations": {
+    "months": {
+      "formatted": {
+        "abbreviated": [
+          "jan",
+          "febr",
+          "mar",
+          "apr",
+          "maj",
+          "jun",
+          "jul",
+          "aug",
+          "sept",
+          "okt",
+          "nov",
+          "dec"
+        ],
+        "narrow": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12"
+        ],
+        "wide": [
+          "januaarip",
+          "februaarip",
+          "marsip",
+          "apriilip",
+          "maajip",
+          "juunip",
+          "juulip",
+          "aggustip",
+          "septembarip",
+          "oktobarip",
+          "novembarip",
+          "decembarip"
+        ]
+      },
+      "nominative": {
+        "abbreviated": [
+          "jan",
+          "febr",
+          "mar",
+          "apr",
+          "maj",
+          "jun",
+          "jul",
+          "aug",
+          "sept",
+          "okt",
+          "nov",
+          "dec"
+        ],
+        "narrow": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12"
+        ],
+        "wide": [
+          "januaari",
+          "februaari",
+          "marsi",
+          "apriili",
+          "maaji",
+          "juuni",
+          "juuli",
+          "aggusti",
+          "septembari",
+          "oktobari",
+          "novembari",
+          "decembari"
+        ]
+      }
+    },
+    "days": {
+      "formatted": {
+        "abbreviated": ["sap", "ata", "mar", "pin", "sis", "tal", "arf"],
+        "narrow": ["S", "M", "T", "W", "T", "F", "S"],
+        "short": ["sap", "ata", "mar", "pin", "sis", "tal", "arf"],
+        "wide": [
+          "sapaat",
+          "ataasinngorneq",
+          "marlunngorneq",
+          "pingasunngorneq",
+          "sisamanngorneq",
+          "tallimanngorneq",
+          "arfininngorneq"
+        ]
+      },
+      "nominative": {
+        "abbreviated": ["sap", "ata", "mar", "pin", "sis", "tal", "arf"],
+        "narrow": ["S", "M", "T", "W", "T", "F", "S"],
+        "short": ["sap", "ata", "mar", "pin", "sis", "tal", "arf"],
+        "wide": [
+          "sapaat",
+          "ataasinngorneq",
+          "marlunngorneq",
+          "pingasunngorneq",
+          "sisamanngorneq",
+          "tallimanngorneq",
+          "arfininngorneq"
+        ]
+      }
+    },
+    "time": { "AM": "AM", "PM": "PM" }
+  },
+  "formats": {
+    "date": {
+      "full": "y MMMM d, EEEE",
+      "long": "y MMMM d",
+      "medium": "y MMM d",
+      "short": "y-MM-dd"
+    },
+    "time": {
+      "full": "HH.mm.ss zzzz",
+      "long": "HH.mm.ss z",
+      "medium": "HH.mm.ss",
+      "short": "HH.mm"
+    },
+    "dateTime": {
+      "full": "{1} {0}",
+      "long": "{1} {0}",
+      "medium": "{1} {0}",
+      "short": "{1} {0}"
+    },
+    "numbers": { "decimals": ",", "grouping": ".", "minus": "-" }
+  }
+}

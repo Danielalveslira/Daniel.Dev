@@ -1,0 +1,128 @@
+{
+  "locale": "ki",
+  "domain": "ki",
+  "direction": "ltr",
+  "countryCode": "",
+  "country": "",
+  "countryNative": "",
+  "language": "Kikuyu",
+  "languageNative": "Gikuyu",
+  "translations": {
+    "months": {
+      "formatted": {
+        "abbreviated": [
+          "JEN",
+          "WKR",
+          "WGT",
+          "WKN",
+          "WTN",
+          "WTD",
+          "WMJ",
+          "WNN",
+          "WKD",
+          "WIK",
+          "WMW",
+          "DIT"
+        ],
+        "narrow": ["J", "K", "G", "K", "G", "G", "M", "K", "K", "I", "I", "D"],
+        "wide": [
+          "Njenuarĩ",
+          "Mwere wa kerĩ",
+          "Mwere wa gatatũ",
+          "Mwere wa kana",
+          "Mwere wa gatano",
+          "Mwere wa gatandatũ",
+          "Mwere wa mũgwanja",
+          "Mwere wa kanana",
+          "Mwere wa kenda",
+          "Mwere wa ikũmi",
+          "Mwere wa ikũmi na ũmwe",
+          "Ndithemba"
+        ]
+      },
+      "nominative": {
+        "abbreviated": [
+          "JEN",
+          "WKR",
+          "WGT",
+          "WKN",
+          "WTN",
+          "WTD",
+          "WMJ",
+          "WNN",
+          "WKD",
+          "WIK",
+          "WMW",
+          "DIT"
+        ],
+        "narrow": ["J", "K", "G", "K", "G", "G", "M", "K", "K", "I", "I", "D"],
+        "wide": [
+          "Njenuarĩ",
+          "Mwere wa kerĩ",
+          "Mwere wa gatatũ",
+          "Mwere wa kana",
+          "Mwere wa gatano",
+          "Mwere wa gatandatũ",
+          "Mwere wa mũgwanja",
+          "Mwere wa kanana",
+          "Mwere wa kenda",
+          "Mwere wa ikũmi",
+          "Mwere wa ikũmi na ũmwe",
+          "Ndithemba"
+        ]
+      }
+    },
+    "days": {
+      "formatted": {
+        "abbreviated": ["KMA", "NTT", "NMN", "NMT", "ART", "NMA", "NMM"],
+        "narrow": ["K", "N", "N", "N", "A", "N", "N"],
+        "short": ["KMA", "NTT", "NMN", "NMT", "ART", "NMA", "NMM"],
+        "wide": [
+          "Kiumia",
+          "Njumatatũ",
+          "Njumaine",
+          "Njumatana",
+          "Aramithi",
+          "Njumaa",
+          "Njumamothi"
+        ]
+      },
+      "nominative": {
+        "abbreviated": ["KMA", "NTT", "NMN", "NMT", "ART", "NMA", "NMM"],
+        "narrow": ["K", "N", "N", "N", "A", "N", "N"],
+        "short": ["KMA", "NTT", "NMN", "NMT", "ART", "NMA", "NMM"],
+        "wide": [
+          "Kiumia",
+          "Njumatatũ",
+          "Njumaine",
+          "Njumatana",
+          "Aramithi",
+          "Njumaa",
+          "Njumamothi"
+        ]
+      }
+    },
+    "time": { "AM": "Kiroko", "PM": "Hwaĩ-inĩ" }
+  },
+  "formats": {
+    "date": {
+      "full": "EEEE, d MMMM y",
+      "long": "d MMMM y",
+      "medium": "d MMM y",
+      "short": "dd/MM/y"
+    },
+    "time": {
+      "full": "HH:mm:ss zzzz",
+      "long": "HH:mm:ss z",
+      "medium": "HH:mm:ss",
+      "short": "HH:mm"
+    },
+    "dateTime": {
+      "full": "{1} {0}",
+      "long": "{1} {0}",
+      "medium": "{1} {0}",
+      "short": "{1} {0}"
+    },
+    "numbers": { "decimals": ".", "grouping": ",", "minus": "-" }
+  }
+}

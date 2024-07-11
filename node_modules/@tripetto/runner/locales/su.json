@@ -1,0 +1,128 @@
+{
+  "locale": "su",
+  "domain": "su",
+  "direction": "ltr",
+  "countryCode": "",
+  "country": "",
+  "countryNative": "",
+  "language": "Sundanese",
+  "languageNative": "Basa Sunda",
+  "translations": {
+    "months": {
+      "formatted": {
+        "abbreviated": [
+          "Jan",
+          "Péb",
+          "Mar",
+          "Apr",
+          "Méi",
+          "Jun",
+          "Jul",
+          "Ags",
+          "Sép",
+          "Okt",
+          "Nop",
+          "Dés"
+        ],
+        "narrow": ["J", "P", "M", "A", "M", "J", "J", "A", "S", "O", "N", "D"],
+        "wide": [
+          "Januari",
+          "Pébruari",
+          "Maret",
+          "April",
+          "Méi",
+          "Juni",
+          "Juli",
+          "Agustus",
+          "Séptémber",
+          "Oktober",
+          "Nopémber",
+          "Désémber"
+        ]
+      },
+      "nominative": {
+        "abbreviated": [
+          "Jan",
+          "Péb",
+          "Mar",
+          "Apr",
+          "Méi",
+          "Jun",
+          "Jul",
+          "Ags",
+          "Sép",
+          "Okt",
+          "Nop",
+          "Dés"
+        ],
+        "narrow": ["J", "P", "M", "A", "M", "J", "J", "A", "S", "O", "N", "D"],
+        "wide": [
+          "Januari",
+          "Pébruari",
+          "Maret",
+          "April",
+          "Méi",
+          "Juni",
+          "Juli",
+          "Agustus",
+          "Séptémber",
+          "Oktober",
+          "Nopémber",
+          "Désémber"
+        ]
+      }
+    },
+    "days": {
+      "formatted": {
+        "abbreviated": ["Mng", "Sen", "Sal", "Reb", "Kem", "Jum", "Sap"],
+        "narrow": ["M", "S", "S", "R", "K", "J", "S"],
+        "short": ["Mng", "Sen", "Sal", "Reb", "Kem", "Jum", "Sap"],
+        "wide": [
+          "Minggu",
+          "Senén",
+          "Salasa",
+          "Rebo",
+          "Kemis",
+          "Jumaah",
+          "Saptu"
+        ]
+      },
+      "nominative": {
+        "abbreviated": ["Mng", "Sen", "Sal", "Reb", "Kem", "Jum", "Sap"],
+        "narrow": ["M", "S", "S", "R", "K", "J", "S"],
+        "short": ["Mng", "Sen", "Sal", "Reb", "Kem", "Jum", "Sap"],
+        "wide": [
+          "Minggu",
+          "Senén",
+          "Salasa",
+          "Rebo",
+          "Kemis",
+          "Jumaah",
+          "Saptu"
+        ]
+      }
+    },
+    "time": { "AM": "AM", "PM": "PM" }
+  },
+  "formats": {
+    "date": {
+      "full": "EEEE, d MMMM y",
+      "long": "d MMMM y",
+      "medium": "d MMM y",
+      "short": "d/M/yy"
+    },
+    "time": {
+      "full": "H.mm.ss zzzz",
+      "long": "H.mm.ss z",
+      "medium": "H.mm.ss",
+      "short": "H.mm"
+    },
+    "dateTime": {
+      "full": "{1}, {0}",
+      "long": "{1}, {0}",
+      "medium": "{1}, {0}",
+      "short": "{1}, {0}"
+    },
+    "numbers": { "decimals": ",", "grouping": ".", "minus": "-" }
+  }
+}

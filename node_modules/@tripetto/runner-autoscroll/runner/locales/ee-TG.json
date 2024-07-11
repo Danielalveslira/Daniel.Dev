@@ -1,0 +1,128 @@
+{
+  "locale": "ee-TG",
+  "domain": "ee",
+  "direction": "ltr",
+  "countryCode": "TG",
+  "country": "Togo",
+  "countryNative": "Togo nutome",
+  "language": "Ewe (Togo)",
+  "languageNative": "Eʋegbe (Togo nutome)",
+  "translations": {
+    "months": {
+      "formatted": {
+        "abbreviated": [
+          "dzv",
+          "dzd",
+          "ted",
+          "afɔ",
+          "dam",
+          "mas",
+          "sia",
+          "dea",
+          "any",
+          "kel",
+          "ade",
+          "dzm"
+        ],
+        "narrow": ["d", "d", "t", "a", "d", "m", "s", "d", "a", "k", "a", "d"],
+        "wide": [
+          "dzove",
+          "dzodze",
+          "tedoxe",
+          "afɔfĩe",
+          "dama",
+          "masa",
+          "siamlɔm",
+          "deasiamime",
+          "anyɔnyɔ",
+          "kele",
+          "adeɛmekpɔxe",
+          "dzome"
+        ]
+      },
+      "nominative": {
+        "abbreviated": [
+          "dzv",
+          "dzd",
+          "ted",
+          "afɔ",
+          "dam",
+          "mas",
+          "sia",
+          "dea",
+          "any",
+          "kel",
+          "ade",
+          "dzm"
+        ],
+        "narrow": ["d", "d", "t", "a", "d", "m", "s", "d", "a", "k", "a", "d"],
+        "wide": [
+          "dzove",
+          "dzodze",
+          "tedoxe",
+          "afɔfĩe",
+          "dama",
+          "masa",
+          "siamlɔm",
+          "deasiamime",
+          "anyɔnyɔ",
+          "kele",
+          "adeɛmekpɔxe",
+          "dzome"
+        ]
+      }
+    },
+    "days": {
+      "formatted": {
+        "abbreviated": ["kɔs", "dzo", "bla", "kuɖ", "yaw", "fiɖ", "mem"],
+        "narrow": ["k", "d", "b", "k", "y", "f", "m"],
+        "short": ["kɔs", "dzo", "bla", "kuɖ", "yaw", "fiɖ", "mem"],
+        "wide": [
+          "kɔsiɖa",
+          "dzoɖa",
+          "blaɖa",
+          "kuɖa",
+          "yawoɖa",
+          "fiɖa",
+          "memleɖa"
+        ]
+      },
+      "nominative": {
+        "abbreviated": ["kɔs", "dzo", "bla", "kuɖ", "yaw", "fiɖ", "mem"],
+        "narrow": ["k", "d", "b", "k", "y", "f", "m"],
+        "short": ["kɔs", "dzo", "bla", "kuɖ", "yaw", "fiɖ", "mem"],
+        "wide": [
+          "kɔsiɖa",
+          "dzoɖa",
+          "blaɖa",
+          "kuɖa",
+          "yawoɖa",
+          "fiɖa",
+          "memleɖa"
+        ]
+      }
+    },
+    "time": { "AM": "ŋdi", "PM": "ɣetrɔ" }
+  },
+  "formats": {
+    "date": {
+      "full": "EEEE, MMMM d 'lia' y",
+      "long": "MMMM d 'lia' y",
+      "medium": "MMM d 'lia', y",
+      "short": "M/d/yy"
+    },
+    "time": {
+      "full": "HH:mm:ss zzzz",
+      "long": "HH:mm:ss z",
+      "medium": "HH:mm:ss",
+      "short": "HH:mm"
+    },
+    "dateTime": {
+      "full": "{0} {1}",
+      "long": "{0} {1}",
+      "medium": "{0} {1}",
+      "short": "{0} {1}"
+    },
+    "numbers": { "decimals": ".", "grouping": ",", "minus": "-" }
+  }
+}

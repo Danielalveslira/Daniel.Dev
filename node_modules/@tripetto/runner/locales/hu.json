@@ -1,0 +1,128 @@
+{
+  "locale": "hu",
+  "domain": "hu",
+  "direction": "ltr",
+  "countryCode": "",
+  "country": "",
+  "countryNative": "",
+  "language": "Hungarian",
+  "languageNative": "magyar",
+  "translations": {
+    "months": {
+      "formatted": {
+        "abbreviated": [
+          "jan.",
+          "febr.",
+          "márc.",
+          "ápr.",
+          "máj.",
+          "jún.",
+          "júl.",
+          "aug.",
+          "szept.",
+          "okt.",
+          "nov.",
+          "dec."
+        ],
+        "narrow": ["J", "F", "M", "Á", "M", "J", "J", "A", "Sz", "O", "N", "D"],
+        "wide": [
+          "január",
+          "február",
+          "március",
+          "április",
+          "május",
+          "június",
+          "július",
+          "augusztus",
+          "szeptember",
+          "október",
+          "november",
+          "december"
+        ]
+      },
+      "nominative": {
+        "abbreviated": [
+          "jan.",
+          "febr.",
+          "márc.",
+          "ápr.",
+          "máj.",
+          "jún.",
+          "júl.",
+          "aug.",
+          "szept.",
+          "okt.",
+          "nov.",
+          "dec."
+        ],
+        "narrow": ["J", "F", "M", "Á", "M", "J", "J", "A", "Sz", "O", "N", "D"],
+        "wide": [
+          "január",
+          "február",
+          "március",
+          "április",
+          "május",
+          "június",
+          "július",
+          "augusztus",
+          "szeptember",
+          "október",
+          "november",
+          "december"
+        ]
+      }
+    },
+    "days": {
+      "formatted": {
+        "abbreviated": ["V", "H", "K", "Sze", "Cs", "P", "Szo"],
+        "narrow": ["V", "H", "K", "Sz", "Cs", "P", "Sz"],
+        "short": ["V", "H", "K", "Sze", "Cs", "P", "Szo"],
+        "wide": [
+          "vasárnap",
+          "hétfő",
+          "kedd",
+          "szerda",
+          "csütörtök",
+          "péntek",
+          "szombat"
+        ]
+      },
+      "nominative": {
+        "abbreviated": ["V", "H", "K", "Sze", "Cs", "P", "Szo"],
+        "narrow": ["V", "H", "K", "Sz", "Cs", "P", "Sz"],
+        "short": ["V", "H", "K", "Sze", "Cs", "P", "Szo"],
+        "wide": [
+          "vasárnap",
+          "hétfő",
+          "kedd",
+          "szerda",
+          "csütörtök",
+          "péntek",
+          "szombat"
+        ]
+      }
+    },
+    "time": { "AM": "de.", "PM": "du." }
+  },
+  "formats": {
+    "date": {
+      "full": "y. MMMM d., EEEE",
+      "long": "y. MMMM d.",
+      "medium": "y. MMM d.",
+      "short": "y. MM. dd."
+    },
+    "time": {
+      "full": "H:mm:ss zzzz",
+      "long": "H:mm:ss z",
+      "medium": "H:mm:ss",
+      "short": "H:mm"
+    },
+    "dateTime": {
+      "full": "{1} {0}",
+      "long": "{1} {0}",
+      "medium": "{1} {0}",
+      "short": "{1} {0}"
+    },
+    "numbers": { "decimals": ",", "grouping": " ", "minus": "-" }
+  }
+}

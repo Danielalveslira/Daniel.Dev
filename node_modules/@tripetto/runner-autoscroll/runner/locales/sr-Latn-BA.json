@@ -1,0 +1,128 @@
+{
+  "locale": "sr-Latn-BA",
+  "domain": "sr",
+  "direction": "ltr",
+  "countryCode": "BA",
+  "country": "Bosnia & Herzegovina",
+  "countryNative": "Bosna i Hercegovina",
+  "language": "Serbian (Latin, Bosnia & Herzegovina)",
+  "languageNative": "srpski (latinica, Bosna i Hercegovina)",
+  "translations": {
+    "months": {
+      "formatted": {
+        "abbreviated": [
+          "jan",
+          "feb",
+          "mar",
+          "apr",
+          "maj",
+          "jun",
+          "jul",
+          "avg",
+          "sep",
+          "okt",
+          "nov",
+          "dec"
+        ],
+        "narrow": ["j", "f", "m", "a", "m", "j", "j", "a", "s", "o", "n", "d"],
+        "wide": [
+          "januar",
+          "februar",
+          "mart",
+          "april",
+          "maj",
+          "jun",
+          "jul",
+          "avgust",
+          "septembar",
+          "oktobar",
+          "novembar",
+          "decembar"
+        ]
+      },
+      "nominative": {
+        "abbreviated": [
+          "jan",
+          "feb",
+          "mar",
+          "apr",
+          "maj",
+          "jun",
+          "jul",
+          "avg",
+          "sep",
+          "okt",
+          "nov",
+          "dec"
+        ],
+        "narrow": ["j", "f", "m", "a", "m", "j", "j", "a", "s", "o", "n", "d"],
+        "wide": [
+          "januar",
+          "februar",
+          "mart",
+          "april",
+          "maj",
+          "jun",
+          "jul",
+          "avgust",
+          "septembar",
+          "oktobar",
+          "novembar",
+          "decembar"
+        ]
+      }
+    },
+    "days": {
+      "formatted": {
+        "abbreviated": ["ned", "pon", "uto", "sri", "čet", "pet", "sub"],
+        "narrow": ["n", "p", "u", "s", "č", "p", "s"],
+        "short": ["ne", "po", "ut", "sr", "če", "pe", "su"],
+        "wide": [
+          "nedjelja",
+          "ponedjeljak",
+          "utorak",
+          "srijeda",
+          "četvrtak",
+          "petak",
+          "subota"
+        ]
+      },
+      "nominative": {
+        "abbreviated": ["ned", "pon", "uto", "sri", "čet", "pet", "sub"],
+        "narrow": ["n", "p", "u", "s", "č", "p", "s"],
+        "short": ["ne", "po", "ut", "sr", "če", "pe", "su"],
+        "wide": [
+          "nedjelja",
+          "ponedjeljak",
+          "utorak",
+          "srijeda",
+          "četvrtak",
+          "petak",
+          "subota"
+        ]
+      }
+    },
+    "time": { "AM": "prije podne", "PM": "po podne" }
+  },
+  "formats": {
+    "date": {
+      "full": "EEEE, d. MMMM y.",
+      "long": "d. MMMM y.",
+      "medium": "d. M. y.",
+      "short": "d.M.yy."
+    },
+    "time": {
+      "full": "HH:mm:ss zzzz",
+      "long": "HH:mm:ss z",
+      "medium": "HH:mm:ss",
+      "short": "HH:mm"
+    },
+    "dateTime": {
+      "full": "{1} {0}",
+      "long": "{1} {0}",
+      "medium": "{1} {0}",
+      "short": "{1} {0}"
+    },
+    "numbers": { "decimals": ",", "grouping": ".", "minus": "-" }
+  }
+}

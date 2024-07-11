@@ -1,0 +1,128 @@
+{
+  "locale": "ceb",
+  "domain": "ceb",
+  "direction": "ltr",
+  "countryCode": "",
+  "country": "",
+  "countryNative": "",
+  "language": "Cebuano",
+  "languageNative": "Cebuano",
+  "translations": {
+    "months": {
+      "formatted": {
+        "abbreviated": [
+          "Ene",
+          "Peb",
+          "Mar",
+          "Abr",
+          "May",
+          "Hun",
+          "Hul",
+          "Ago",
+          "Set",
+          "Okt",
+          "Nob",
+          "Dis"
+        ],
+        "narrow": ["E", "P", "M", "A", "M", "H", "H", "A", "S", "O", "N", "D"],
+        "wide": [
+          "Enero",
+          "Pebrero",
+          "Marso",
+          "Abril",
+          "Mayo",
+          "Hunyo",
+          "Hulyo",
+          "Agosto",
+          "Setyembre",
+          "Oktubre",
+          "Nobyembre",
+          "Disyembre"
+        ]
+      },
+      "nominative": {
+        "abbreviated": [
+          "Ene",
+          "Peb",
+          "Mar",
+          "Abr",
+          "May",
+          "Hun",
+          "Hul",
+          "Ago",
+          "Set",
+          "Okt",
+          "Nob",
+          "Dis"
+        ],
+        "narrow": ["E", "P", "M", "A", "M", "H", "H", "A", "S", "O", "N", "D"],
+        "wide": [
+          "Enero",
+          "Pebrero",
+          "Marso",
+          "Abril",
+          "Mayo",
+          "Hunyo",
+          "Hulyo",
+          "Agosto",
+          "Setyembre",
+          "Oktubre",
+          "Nobyembre",
+          "Disyembre"
+        ]
+      }
+    },
+    "days": {
+      "formatted": {
+        "abbreviated": ["Dom", "Lun", "Mar", "Miy", "Huw", "Biy", "Sab"],
+        "narrow": ["D", "L", "M", "M", "H", "B", "S"],
+        "short": ["Dom", "Lun", "Mar", "Miy", "Huw", "Biy", "Sab"],
+        "wide": [
+          "Domingo",
+          "Lunes",
+          "Martes",
+          "Miyerkules",
+          "Huwebes",
+          "Biyernes",
+          "Sabado"
+        ]
+      },
+      "nominative": {
+        "abbreviated": ["Dom", "Lun", "Mar", "Miy", "Huw", "Biy", "Sab"],
+        "narrow": ["D", "L", "M", "M", "H", "B", "S"],
+        "short": ["Dom", "Lun", "Mar", "Miy", "Huw", "Biy", "Sab"],
+        "wide": [
+          "Domingo",
+          "Lunes",
+          "Martes",
+          "Miyerkules",
+          "Huwebes",
+          "Biyernes",
+          "Sabado"
+        ]
+      }
+    },
+    "time": { "AM": "AM", "PM": "PM" }
+  },
+  "formats": {
+    "date": {
+      "full": "EEEE, MMMM d, y",
+      "long": "MMMM d, y",
+      "medium": "MMM d, y",
+      "short": "M/d/yy"
+    },
+    "time": {
+      "full": "h:mm:ss a zzzz",
+      "long": "h:mm:ss a z",
+      "medium": "h:mm:ss a",
+      "short": "h:mm a"
+    },
+    "dateTime": {
+      "full": "{1}, {0}",
+      "long": "{1}, {0}",
+      "medium": "{1}, {0}",
+      "short": "{1}, {0}"
+    },
+    "numbers": { "decimals": ".", "grouping": ",", "minus": "-" }
+  }
+}

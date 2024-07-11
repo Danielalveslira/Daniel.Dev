@@ -1,0 +1,141 @@
+{
+  "locale": "to",
+  "domain": "to",
+  "direction": "ltr",
+  "countryCode": "",
+  "country": "",
+  "countryNative": "",
+  "language": "Tongan",
+  "languageNative": "lea fakatonga",
+  "translations": {
+    "months": {
+      "formatted": {
+        "abbreviated": [
+          "Sān",
+          "Fēp",
+          "Maʻa",
+          "ʻEpe",
+          "Mē",
+          "Sun",
+          "Siu",
+          "ʻAok",
+          "Sep",
+          "ʻOka",
+          "Nōv",
+          "Tīs"
+        ],
+        "narrow": [
+          "S",
+          "F",
+          "M",
+          "ʻE",
+          "M",
+          "S",
+          "S",
+          "ʻA",
+          "S",
+          "ʻO",
+          "N",
+          "T"
+        ],
+        "wide": [
+          "Sānuali",
+          "Fēpueli",
+          "Maʻasi",
+          "ʻEpeleli",
+          "Mē",
+          "Sune",
+          "Siulai",
+          "ʻAokosi",
+          "Sepitema",
+          "ʻOkatopa",
+          "Nōvema",
+          "Tīsema"
+        ]
+      },
+      "nominative": {
+        "abbreviated": [
+          "Sān",
+          "Fēp",
+          "Maʻa",
+          "ʻEpe",
+          "Mē",
+          "Sun",
+          "Siu",
+          "ʻAok",
+          "Sep",
+          "ʻOka",
+          "Nōv",
+          "Tīs"
+        ],
+        "narrow": ["S", "F", "M", "E", "M", "S", "S", "A", "S", "O", "N", "T"],
+        "wide": [
+          "Sānuali",
+          "Fēpueli",
+          "Maʻasi",
+          "ʻEpeleli",
+          "Mē",
+          "Sune",
+          "Siulai",
+          "ʻAokosi",
+          "Sepitema",
+          "ʻOkatopa",
+          "Nōvema",
+          "Tīsema"
+        ]
+      }
+    },
+    "days": {
+      "formatted": {
+        "abbreviated": ["Sāp", "Mōn", "Tūs", "Pul", "Tuʻa", "Fal", "Tok"],
+        "narrow": ["S", "M", "T", "P", "T", "F", "T"],
+        "short": ["Sāp", "Mōn", "Tūs", "Pul", "Tuʻa", "Fal", "Tok"],
+        "wide": [
+          "Sāpate",
+          "Mōnite",
+          "Tūsite",
+          "Pulelulu",
+          "Tuʻapulelulu",
+          "Falaite",
+          "Tokonaki"
+        ]
+      },
+      "nominative": {
+        "abbreviated": ["Sāp", "Mōn", "Tūs", "Pul", "Tuʻa", "Fal", "Tok"],
+        "narrow": ["S", "M", "T", "P", "T", "F", "T"],
+        "short": ["Sāp", "Mōn", "Tūs", "Pul", "Tuʻa", "Fal", "Tok"],
+        "wide": [
+          "Sāpate",
+          "Mōnite",
+          "Tūsite",
+          "Pulelulu",
+          "Tuʻapulelulu",
+          "Falaite",
+          "Tokonaki"
+        ]
+      }
+    },
+    "time": { "AM": "AM", "PM": "PM" }
+  },
+  "formats": {
+    "date": {
+      "full": "EEEE d MMMM y",
+      "long": "d MMMM y",
+      "medium": "d MMM y",
+      "short": "d/M/yy"
+    },
+    "time": {
+      "full": "h:mm:ss a zzzz",
+      "long": "h:mm:ss a z",
+      "medium": "h:mm:ss a",
+      "short": "h:mm a"
+    },
+    "dateTime": {
+      "full": "{1}, {0}",
+      "long": "{1}, {0}",
+      "medium": "{1}, {0}",
+      "short": "{1} {0}"
+    },
+    "numbers": { "decimals": ".", "grouping": ",", "minus": "-" }
+  }
+}

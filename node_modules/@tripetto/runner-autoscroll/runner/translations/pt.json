@@ -1,0 +1,329 @@
+{
+  "": {
+    "project-id-version": "@tripetto/runner-autoscroll 4.0.1",
+    "report-msgid-bugs-to": "support@tripetto.com",
+    "pot-creation-date": "2021-09-13 16:39+0200",
+    "po-revision-date": "2021-09-13 16:42+0200",
+    "last-translator": "Mark van den Brink <mark@vandenbr.ink>",
+    "language-team": "",
+    "language": "pt",
+    "mime-version": "1.0",
+    "content-type": "text/plain; charset=UTF-8",
+    "content-transfer-encoding": "8bit",
+    "plural-forms": "nplurals=2; plural=(n > 1);",
+    "x-generator": "Poedit 3.0"
+  },
+  "runner#9|⚠ Errors|Input error\u0004%1 item requires your attention! Click to fix.": [
+    "%1 items require your attention! Click to fix.",
+    "%1 item requer a sua atenção! Clique para corrigir.",
+    "%1 itens requerem a sua atenção! Clique para corrigir."
+  ],
+  "runner#3|🩺 Status information\u0004%1 of %2 answered": [
+    null,
+    "%1 de %2 respondida"
+  ],
+  "runner#3|🩺 Status information\u0004Nothing to answer": [
+    null,
+    "Nada a responder"
+  ],
+  "runner#3|🩺 Status information\u0004Pausing...": [
+    null,
+    "A colocar em pausa..."
+  ],
+  "runner#3|🩺 Status information\u0004Submitting...": [null, "A submeter..."],
+  "runner#3|🩺 Status information\u0004⏳ One moment please...": [
+    null,
+    "⏳  Um momento, por favor..."
+  ],
+  "runner:autoscroll\u0004100% height, width centered": [
+    null,
+    "100% de altura, largura centrada"
+  ],
+  "runner:autoscroll\u0004100% width, height centered": [
+    null,
+    "100% largura, altura centrada"
+  ],
+  "runner:autoscroll\u0004Agree color (input buttons)": [
+    null,
+    "Concordar com a cor (botões de entrada)"
+  ],
+  "runner:autoscroll\u0004Always": [null, "Sempre"],
+  "runner:autoscroll\u0004Appearance": [null, "Aparência"],
+  "runner:autoscroll\u0004Automatically gain focus": [
+    null,
+    "Obter focalização automática"
+  ],
+  "runner:autoscroll\u0004Background": [null, "Fundo"],
+  "runner:autoscroll\u0004Background color": [null, "Cor de fundo"],
+  "runner:autoscroll\u0004Border color": [null, "Cor da borda"],
+  "runner:autoscroll\u0004Border size": [null, "Tamanho da borda"],
+  "runner:autoscroll\u0004Bottom": [null, "Fundo da base"],
+  "runner:autoscroll\u0004Button color": [null, "Cor dos botões"],
+  "runner:autoscroll\u0004Buttons": [null, "Botões"],
+  "runner:autoscroll\u0004Center": [null, "Centro"],
+  "runner:autoscroll\u0004Color": [null, "Cor"],
+  "runner:autoscroll\u0004Contain (full image stretched over screen)": [
+    null,
+    "Conter (imagem completa esticada sobre o ecrã)"
+  ],
+  "runner:autoscroll\u0004Cover (full screen)": [
+    null,
+    "Cobertura (ecrã inteiro)"
+  ],
+  "runner:autoscroll\u0004Create one now!": [null, "Criar um agora!"],
+  "runner:autoscroll\u0004Custom fonts": [null, "Fontes personalizadas"],
+  "runner:autoscroll\u0004Customize": [null, "Personalizar"],
+  "runner:autoscroll\u0004Decline color (input buttons)": [
+    null,
+    "Rejeitar a cor (botões de entrada)"
+  ],
+  "runner:autoscroll\u0004Default": [null, "Por defeito"],
+  "runner:autoscroll\u0004Did you know you can customize this closing message?": [
+    null,
+    "Sabia que pode personalizar esta mensagem de encerramento?"
+  ],
+  "runner:autoscroll\u0004Disable scrolling": [null, "Desativar a rolagem"],
+  "runner:autoscroll\u0004Disabled in preview mode": [
+    null,
+    "Desativar em modo de pré-visualização"
+  ],
+  "runner:autoscroll\u0004Discard": [null, "Descartar"],
+  "runner:autoscroll\u0004Display back button": [
+    null,
+    "Exibir botão de retroceder"
+  ],
+  "runner:autoscroll\u0004Display numbering": [null, "Exibir numeração"],
+  "runner:autoscroll\u0004Display progressbar": [
+    null,
+    "Exibir barra de progresso"
+  ],
+  "runner:autoscroll\u0004Display separate submit button": [
+    null,
+    "Exibir botão de submissão separado"
+  ],
+  "runner:autoscroll\u0004Fill": [null, "Preencher"],
+  "runner:autoscroll\u0004Font": [null, "Tipo de letra"],
+  "runner:autoscroll\u0004Font family": [null, "Família de tipos de letra"],
+  "runner:autoscroll\u0004Font size": [null, "Tamanho de letra"],
+  "runner:autoscroll\u0004Font size for small screens": [
+    null,
+    "Tamanho de fonte para telas pequenas"
+  ],
+  "runner:autoscroll\u0004Google Fonts or URL": [null, "Google Fonts ou URL"],
+  "runner:autoscroll\u0004Hide all the Tripetto branding": [
+    null,
+    "Ocultar toda a marca Tripetto"
+  ],
+  "runner:autoscroll\u0004Hide asterisk for required questions": [
+    null,
+    "Esconder asterisco para perguntas necessárias"
+  ],
+  "runner:autoscroll\u0004Hide past blocks": [null, "Ocultar blocos passados"],
+  "runner:autoscroll\u0004Hide upcoming blocks": [
+    null,
+    "Ocultar próximos blocos"
+  ],
+  "runner:autoscroll\u0004Horizontal": [null, "Horizontal"],
+  "runner:autoscroll\u0004Image (URL)": [null, "Imagem (URL)"],
+  "runner:autoscroll\u0004In a live environment the form will redirect to:": [
+    null,
+    "Num ambiente real, o formulário será redirecionado para:"
+  ],
+  "runner:autoscroll\u0004Inputs": [null, "Entradas"],
+  "runner:autoscroll\u0004Middle": [null, "Meio"],
+  "runner:autoscroll\u0004Navigation bar": [null, "Barra de navegação"],
+  "runner:autoscroll\u0004Never": [null, "Nunca"],
+  "runner:autoscroll\u0004Only applies when embedding the form.": [
+    null,
+    "Só se aplica quando se integra o formulário."
+  ],
+  "runner:autoscroll\u0004Only when displayed in full page": [
+    null,
+    "Apenas quando exibido na página inteira"
+  ],
+  "runner:autoscroll\u0004Opacity": [null, "Opacidade"],
+  "runner:autoscroll\u0004Options": [null, "Opções"],
+  "runner:autoscroll\u0004Outline": [null, "Esboço"],
+  "runner:autoscroll\u0004Please add a block first to get the magic going.": [
+    null,
+    "Adicione um bloco primeiro para conseguir pôr a magia a funcionar."
+  ],
+  "runner:autoscroll\u0004Positioning": [null, "A posicionar"],
+  "runner:autoscroll\u0004Powered by Tripetto": [null, "Powered by Tripetto"],
+  "runner:autoscroll\u0004Preview mode (shows all without logic)": [
+    null,
+    "Modo de pré-visualização (mostra tudo sem lógica)"
+  ],
+  "runner:autoscroll\u0004Progressbar color": [
+    null,
+    "Cor da Barra de Progresso"
+  ],
+  "runner:autoscroll\u0004Repeat": [null, "Repetir"],
+  "runner:autoscroll\u0004Required/error color": [null, "Cor necessária/erro"],
+  "runner:autoscroll\u0004Roundness": [null, "Arredondamento"],
+  "runner:autoscroll\u0004Scroll direction": [null, "Direção da deslocação"],
+  "runner:autoscroll\u0004Selection color (input buttons)": [
+    null,
+    "Cor de seleção (botões de entrada)"
+  ],
+  "runner:autoscroll\u0004Show navigation bar": [
+    null,
+    "Mostrar barra de navegação"
+  ],
+  "runner:autoscroll\u0004Show scrollbar": [
+    null,
+    "Mostrar barra de deslocamento"
+  ],
+  "runner:autoscroll\u0004Standard fonts": [null, "Tipos de letra padrão"],
+  "runner:autoscroll\u0004Style": [null, "Estilo"],
+  "runner:autoscroll\u0004Submit button color": [null, "Submeter cor do botão"],
+  "runner:autoscroll\u0004Test again": [null, "Testar novamente"],
+  "runner:autoscroll\u0004Text color": [null, "Cor do texto"],
+  "runner:autoscroll\u0004The supplied URL is invalid!": [
+    null,
+    "A URL fornecida é inválida!"
+  ],
+  "runner:autoscroll\u0004Top": [null, "Topo"],
+  "runner:autoscroll\u0004Tripetto is for making elegantly personal form and survey experiences with response boosting conversational powers.": [
+    null,
+    "A ferramenta Tripetto serve para fazer experiências no desenvolvimento de formulários e inquéritos com um toque elegantemente pessoal e com o poder de estimular respostas em conversação."
+  ],
+  "runner:autoscroll\u0004Use any font available on [Google Fonts](https://fonts.google.com/) or supply a custom font URL. Please note that the Google Fonts name is case sensitive.": [
+    null,
+    "Utilize qualquer tipo de letra disponível em [Google Fonts](https://fonts.google.com/) ou forneça uma URL de fonte personalizada. Tenha em atenção que o nome Google Fonts é sensível a maiúsculas e minúsculas."
+  ],
+  "runner:autoscroll\u0004Vertical": [null, "Vertical"],
+  "runner:autoscroll\u0004Vertical alignment": [null, "Alinhamento vertical"],
+  "runner:autoscroll\u0004Visibility": [null, "Visibilidade"],
+  "runner:autoscroll\u0004Want to make a form like this for free?": [
+    null,
+    "Quer fazer um formulário como este gratuitamente?"
+  ],
+  "runner:autoscroll\u0004_Note_: This size applies to small screens (like mobile devices). Switch to the mobile device preview to see and test this small font size.": [
+    null,
+    "_Nota_: Este tamanho se aplica a telas pequenas (como dispositivos móveis). Mude para a visualização do dispositivo móvel para ver e testar este pequeno tamanho de fonte."
+  ],
+  "runner:autoscroll\u0004🎉 Test completed": [null, "🎉 Teste concluído"],
+  "runner:autoscroll\u0004👋 Hi there!": [null, "👋 Olá pessoal!"],
+  "runner#6|📂 File upload\u0004Allowed extensions: %1": [
+    null,
+    "Extensões permitidas: %1"
+  ],
+  "runner#6|📂 File upload\u0004Choose or drag a file here": [
+    null,
+    "Selecione ou arraste um ficheiro para aqui"
+  ],
+  "runner#6|📂 File upload\u0004Delete": [null, "Suprimir"],
+  "runner#6|📂 File upload\u0004Drop your file now": [
+    null,
+    "Largue o seu ficheiro agora"
+  ],
+  "runner#6|📂 File upload\u0004Extension is not allowed.": [
+    null,
+    "A extensão não é permitida."
+  ],
+  "runner#6|📂 File upload\u0004File size is too large.": [
+    null,
+    "O tamanho do ficheiro é demasiado grande."
+  ],
+  "runner#6|📂 File upload\u0004Size limit: %1": [
+    null,
+    "Limite de tamanho: %1"
+  ],
+  "runner#6|📂 File upload\u0004Something went wrong while uploading%1.": [
+    null,
+    "Houve alguma coisa que falhou ao fazer o carregamento%1."
+  ],
+  "runner#6|📂 File upload\u0004This file can't be used.": [
+    null,
+    "Este ficheiro não pode ser utilizado."
+  ],
+  "runner#6|📂 File upload\u0004Too many files selected.": [
+    null,
+    "Demasiados ficheiros selecionados."
+  ],
+  "runner#6|📂 File upload\u0004Try again": [null, "Tentar novamente"],
+  "runner#6|📂 File upload\u0004Uploading (%1)": [null, "Carregamento (%1)"],
+  "runner#1|🆗 Buttons\u0004Back": [null, "Retroceder"],
+  "runner#1|🆗 Buttons\u0004Discard": [null, "Descartar"],
+  "runner#1|🆗 Buttons\u0004Next": [null, "Próximo"],
+  "runner#1|🆗 Buttons\u0004Reload": [null, "Recarregar"],
+  "runner#1|🆗 Buttons\u0004Retry": [null, "Tentar novamente"],
+  "runner#1|🆗 Buttons\u0004Start": [null, "Iniciar"],
+  "runner#1|🆗 Buttons\u0004Start again": [null, "Iniciar de novo"],
+  "runner#1|🆗 Buttons\u0004Submit": [null, "Submeter"],
+  "runner#8|⏸ Pause conversation\u0004Cancel pausing": [
+    null,
+    "Cancelar a pausa"
+  ],
+  "runner#8|⏸ Pause conversation\u0004Pause this conversation": [
+    null,
+    "Colocar em pausa esta conversa"
+  ],
+  "runner#8|⏸ Pause conversation\u0004Receive a link by email to resume later on any device, right where you left off.": [
+    null,
+    "Receba uma hiperligação por e-mail para retomar mais tarde em qualquer dispositivo, exatamente onde interrompeu."
+  ],
+  "runner#8|⏸ Pause conversation\u0004Receive resume link": [
+    null,
+    "Receber hiperligação para retoma de tarefa"
+  ],
+  "runner#8|⏸ Pause conversation\u0004Your email address...": [
+    null,
+    "O seu endereço de e-mail..."
+  ],
+  "runner#9|⚠ Errors|Outdated error\u0004It seems the form is changed by the owner while you were filling in the form. Your data cannot be processed, but you can try to reload the new version of the form while maintaining the data you've filled in. Click the reload button to try this. Please check your data after reloading and then submit again.": [
+    null,
+    "Parece que o formulário foi alterado pelo proprietário enquanto você estava a preencher. Os seus dados não podem ser processados, mas você pode tentar recarregar a nova versão do formulário, mantendo simultaneamente os dados já preenchidos. Clique no botão “Recarregar” para tentar essa operação. Por favor, verifique os seus dados após recarregar e depois submeta novamente."
+  ],
+  "runner#9|⚠ Errors|Outdated error\u0004It seems the form is changed by the owner while you were filling in the form. Your data cannot be processed. Try reloading the form.": [
+    null,
+    "Parece que o formulário foi alterado pelo proprietário enquanto você estava a preencher. Os seus dados não podem ser processados. Tente voltar a carregar o formulário."
+  ],
+  "runner#6|🔷 Yes/No\u0004No": [null, "Não"],
+  "runner#6|🔷 Yes/No\u0004Yes": [null, "Sim"],
+  "runner#2|💬 Messages|Conversation closed\u0004Nothing to talk about. The conversation is closed 🤐": [
+    null,
+    "Não há mais assunto para falar. A conversa está encerrada 🤐"
+  ],
+  "runner#2|💬 Messages|Conversation closed\u0004👋 Hi there!": [
+    null,
+    "👋 Olá pessoal!"
+  ],
+  "runner#9|⚠ Errors|Connection error\u0004Please check your connection and try again (for the techies: The error console of your browser might contain more technical information about what went wrong).": [
+    null,
+    "Verifique a sua ligação e tente novamente (para os técnicos: o painel de erros do seu navegador Web pode conter mais informação técnica sobre a falha ocorrida)."
+  ],
+  "runner#9|⚠ Errors|Pausing error\u0004Something went wrong while pausing your conversation.": [
+    null,
+    "Houve alguma coisa que falhou ao interromper a sua conversação."
+  ],
+  "runner#9|⚠ Errors|Submit error\u0004Something went wrong while submitting your conversation.": [
+    null,
+    "Houve alguma coisa que falhou ao submeter a sua conversação."
+  ],
+  "runner#9|⚠ Errors|Submit error\u0004The form is outdated.": [
+    null,
+    "O formulário está desatualizado."
+  ],
+  "runner#9|⚠ Errors|Submit error\u0004Your data is rejected.": [
+    null,
+    "Os seus dados foram rejeitados."
+  ],
+  "runner#2|💬 Messages|Conversation paused\u0004The conversation is now paused.": [
+    null,
+    "A conversação está agora interrompida."
+  ],
+  "runner#2|💬 Messages|Conversation paused\u0004⏸ Paused": [
+    null,
+    "⏸ Em pausa"
+  ],
+  "runner#9|⚠ Errors|Rejected error\u0004Unfortunately, your data is marked as invalid and therefore rejected. If you believe this is a mistake, please contact the form owner. We're sorry for the inconvenience.": [
+    null,
+    "Infelizmente, os seus dados estão marcados como inválidos e, portanto, rejeitados. Se considera que isto é um erro, por favor contacte o proprietário do formulário. Pedimos desculpa pelo inconveniente causado."
+  ],
+  "runner#2|💬 Messages|Conversation ended\u0004🎉 It's a wrap!": [
+    null,
+    "🎉 Está terminado!"
+  ]
+}

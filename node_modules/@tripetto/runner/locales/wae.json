@@ -1,0 +1,128 @@
+{
+  "locale": "wae",
+  "domain": "wae",
+  "direction": "ltr",
+  "countryCode": "",
+  "country": "",
+  "countryNative": "",
+  "language": "Walser",
+  "languageNative": "Walser",
+  "translations": {
+    "months": {
+      "formatted": {
+        "abbreviated": [
+          "Jen",
+          "Hor",
+          "Mär",
+          "Abr",
+          "Mei",
+          "Brá",
+          "Hei",
+          "Öig",
+          "Her",
+          "Wím",
+          "Win",
+          "Chr"
+        ],
+        "narrow": ["J", "H", "M", "A", "M", "B", "H", "Ö", "H", "W", "W", "C"],
+        "wide": [
+          "Jenner",
+          "Hornig",
+          "Märze",
+          "Abrille",
+          "Meije",
+          "Bráčet",
+          "Heiwet",
+          "Öigšte",
+          "Herbštmánet",
+          "Wímánet",
+          "Wintermánet",
+          "Chrištmánet"
+        ]
+      },
+      "nominative": {
+        "abbreviated": [
+          "Jen",
+          "Hor",
+          "Mär",
+          "Abr",
+          "Mei",
+          "Brá",
+          "Hei",
+          "Öig",
+          "Her",
+          "Wím",
+          "Win",
+          "Chr"
+        ],
+        "narrow": ["J", "H", "M", "A", "M", "B", "H", "Ö", "H", "W", "W", "C"],
+        "wide": [
+          "Jenner",
+          "Hornig",
+          "Märze",
+          "Abrille",
+          "Meije",
+          "Bráčet",
+          "Heiwet",
+          "Öigšte",
+          "Herbštmánet",
+          "Wímánet",
+          "Wintermánet",
+          "Chrištmánet"
+        ]
+      }
+    },
+    "days": {
+      "formatted": {
+        "abbreviated": ["Sun", "Män", "Ziš", "Mit", "Fró", "Fri", "Sam"],
+        "narrow": ["S", "M", "Z", "M", "F", "F", "S"],
+        "short": ["Sun", "Män", "Ziš", "Mit", "Fró", "Fri", "Sam"],
+        "wide": [
+          "Sunntag",
+          "Mäntag",
+          "Zištag",
+          "Mittwuč",
+          "Fróntag",
+          "Fritag",
+          "Samštag"
+        ]
+      },
+      "nominative": {
+        "abbreviated": ["Sun", "Män", "Ziš", "Mit", "Fró", "Fri", "Sam"],
+        "narrow": ["S", "M", "Z", "M", "F", "F", "S"],
+        "short": ["Sun", "Män", "Ziš", "Mit", "Fró", "Fri", "Sam"],
+        "wide": [
+          "Sunntag",
+          "Mäntag",
+          "Zištag",
+          "Mittwuč",
+          "Fróntag",
+          "Fritag",
+          "Samštag"
+        ]
+      }
+    },
+    "time": { "AM": "AM", "PM": "PM" }
+  },
+  "formats": {
+    "date": {
+      "full": "EEEE, d. MMMM y",
+      "long": "d. MMMM y",
+      "medium": "d. MMM y",
+      "short": "y-MM-dd"
+    },
+    "time": {
+      "full": "HH:mm:ss zzzz",
+      "long": "HH:mm:ss z",
+      "medium": "HH:mm:ss",
+      "short": "HH:mm"
+    },
+    "dateTime": {
+      "full": "{1} {0}",
+      "long": "{1} {0}",
+      "medium": "{1} {0}",
+      "short": "{1} {0}"
+    },
+    "numbers": { "decimals": ",", "grouping": "’", "minus": "-" }
+  }
+}

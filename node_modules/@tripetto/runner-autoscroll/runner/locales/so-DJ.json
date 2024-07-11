@@ -1,0 +1,128 @@
+{
+  "locale": "so-DJ",
+  "domain": "so",
+  "direction": "ltr",
+  "countryCode": "DJ",
+  "country": "Djibouti",
+  "countryNative": "Jabuuti",
+  "language": "Somali (Djibouti)",
+  "languageNative": "Soomaali (Jabuuti)",
+  "translations": {
+    "months": {
+      "formatted": {
+        "abbreviated": [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Abr",
+          "May",
+          "Jun",
+          "Lul",
+          "Ogs",
+          "Seb",
+          "Okt",
+          "Nof",
+          "Dis"
+        ],
+        "narrow": ["J", "F", "M", "A", "M", "J", "L", "O", "S", "O", "N", "D"],
+        "wide": [
+          "Bisha Koobaad",
+          "Bisha Labaad",
+          "Bisha Saddexaad",
+          "Bisha Afraad",
+          "Bisha Shanaad",
+          "Bisha Lixaad",
+          "Bisha Todobaad",
+          "Bisha Sideedaad",
+          "Bisha Sagaalaad",
+          "Bisha Tobnaad",
+          "Bisha Kow iyo Tobnaad",
+          "Bisha Laba iyo Tobnaad"
+        ]
+      },
+      "nominative": {
+        "abbreviated": [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Abr",
+          "May",
+          "Jun",
+          "Lul",
+          "Ogs",
+          "Seb",
+          "Okt",
+          "Nof",
+          "Dis"
+        ],
+        "narrow": ["J", "F", "M", "A", "M", "J", "L", "O", "S", "O", "N", "D"],
+        "wide": [
+          "Jannaayo",
+          "Febraayo",
+          "Maarso",
+          "Abriil",
+          "May",
+          "Juun",
+          "Luuliyo",
+          "Ogosto",
+          "Sebteembar",
+          "Oktoobar",
+          "Noofeembar",
+          "Diseembar"
+        ]
+      }
+    },
+    "days": {
+      "formatted": {
+        "abbreviated": ["Axd", "Isn", "Tldo", "Arbc", "Khms", "Jmc", "Sbti"],
+        "narrow": ["A", "I", "T", "A", "Kh", "J", "S"],
+        "short": ["Axd", "Isn", "Tldo", "Arbc", "Khms", "Jmc", "Sbti"],
+        "wide": [
+          "Axad",
+          "Isniin",
+          "Talaado",
+          "Arbaco",
+          "Khamiis",
+          "Jimco",
+          "Sabti"
+        ]
+      },
+      "nominative": {
+        "abbreviated": ["Axd", "Isn", "Tldo", "Arbc", "Khms", "Jmc", "Sbti"],
+        "narrow": ["A", "I", "T", "A", "Kh", "J", "S"],
+        "short": ["Axd", "Isn", "Tldo", "Arbaco", "Khms", "Jmc", "Sbti"],
+        "wide": [
+          "Axad",
+          "Isniin",
+          "Talaado",
+          "Arbaco",
+          "Khamiis",
+          "Jimco",
+          "Sabti"
+        ]
+      }
+    },
+    "time": { "AM": "GH", "PM": "GD" }
+  },
+  "formats": {
+    "date": {
+      "full": "EEEE, MMMM d, y",
+      "long": "MMMM d, y",
+      "medium": "dd-MMM-y",
+      "short": "dd/MM/yy"
+    },
+    "time": {
+      "full": "h:mm:ss a zzzz",
+      "long": "h:mm:ss a z",
+      "medium": "h:mm:ss a",
+      "short": "h:mm a"
+    },
+    "dateTime": {
+      "full": "{1} {0}",
+      "long": "{1} {0}",
+      "medium": "{1} {0}",
+      "short": "{1} {0}"
+    },
+    "numbers": { "decimals": ".", "grouping": ",", "minus": "-" }
+  }
+}

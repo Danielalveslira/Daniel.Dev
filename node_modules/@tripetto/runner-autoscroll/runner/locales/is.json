@@ -1,0 +1,128 @@
+{
+  "locale": "is",
+  "domain": "is",
+  "direction": "ltr",
+  "countryCode": "",
+  "country": "",
+  "countryNative": "",
+  "language": "Icelandic",
+  "languageNative": "íslenska",
+  "translations": {
+    "months": {
+      "formatted": {
+        "abbreviated": [
+          "jan.",
+          "feb.",
+          "mar.",
+          "apr.",
+          "maí",
+          "jún.",
+          "júl.",
+          "ágú.",
+          "sep.",
+          "okt.",
+          "nóv.",
+          "des."
+        ],
+        "narrow": ["J", "F", "M", "A", "M", "J", "J", "Á", "S", "O", "N", "D"],
+        "wide": [
+          "janúar",
+          "febrúar",
+          "mars",
+          "apríl",
+          "maí",
+          "júní",
+          "júlí",
+          "ágúst",
+          "september",
+          "október",
+          "nóvember",
+          "desember"
+        ]
+      },
+      "nominative": {
+        "abbreviated": [
+          "jan.",
+          "feb.",
+          "mar.",
+          "apr.",
+          "maí",
+          "jún.",
+          "júl.",
+          "ágú.",
+          "sep.",
+          "okt.",
+          "nóv.",
+          "des."
+        ],
+        "narrow": ["J", "F", "M", "A", "M", "J", "J", "Á", "S", "O", "N", "D"],
+        "wide": [
+          "janúar",
+          "febrúar",
+          "mars",
+          "apríl",
+          "maí",
+          "júní",
+          "júlí",
+          "ágúst",
+          "september",
+          "október",
+          "nóvember",
+          "desember"
+        ]
+      }
+    },
+    "days": {
+      "formatted": {
+        "abbreviated": ["sun.", "mán.", "þri.", "mið.", "fim.", "fös.", "lau."],
+        "narrow": ["S", "M", "Þ", "M", "F", "F", "L"],
+        "short": ["su.", "má.", "þr.", "mi.", "fi.", "fö.", "la."],
+        "wide": [
+          "sunnudagur",
+          "mánudagur",
+          "þriðjudagur",
+          "miðvikudagur",
+          "fimmtudagur",
+          "föstudagur",
+          "laugardagur"
+        ]
+      },
+      "nominative": {
+        "abbreviated": ["sun.", "mán.", "þri.", "mið.", "fim.", "fös.", "lau."],
+        "narrow": ["S", "M", "Þ", "M", "F", "F", "L"],
+        "short": ["su.", "má.", "þr.", "mi.", "fi.", "fö.", "la."],
+        "wide": [
+          "sunnudagur",
+          "mánudagur",
+          "þriðjudagur",
+          "miðvikudagur",
+          "fimmtudagur",
+          "föstudagur",
+          "laugardagur"
+        ]
+      }
+    },
+    "time": { "AM": "f.h.", "PM": "e.h." }
+  },
+  "formats": {
+    "date": {
+      "full": "EEEE, d. MMMM y",
+      "long": "d. MMMM y",
+      "medium": "d. MMM y",
+      "short": "d.M.y"
+    },
+    "time": {
+      "full": "HH:mm:ss zzzz",
+      "long": "HH:mm:ss z",
+      "medium": "HH:mm:ss",
+      "short": "HH:mm"
+    },
+    "dateTime": {
+      "full": "{1}, {0}",
+      "long": "{1}, {0}",
+      "medium": "{1}, {0}",
+      "short": "{1}, {0}"
+    },
+    "numbers": { "decimals": ",", "grouping": ".", "minus": "-" }
+  }
+}
