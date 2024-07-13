@@ -717,24 +717,12 @@ video {
   width: 6rem;
 }
 
-.w-6 {
-  width: 1.5rem;
-}
-
-.w-7 {
-  width: 1.75rem;
-}
-
 .w-5 {
   width: 1.25rem;
 }
 
-.w-4 {
-  width: 1rem;
-}
-
-.w-3 {
-  width: 0.75rem;
+.w-7 {
+  width: 1.75rem;
 }
 
 .max-w-screen-lg {
@@ -785,6 +773,12 @@ video {
   --tw-space-x-reverse: 0;
   margin-right: calc(0.5rem * var(--tw-space-x-reverse));
   margin-left: calc(0.5rem * calc(1 - var(--tw-space-x-reverse)));
+}
+
+.truncate {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
 
 .rounded {
@@ -863,6 +857,11 @@ video {
   padding-bottom: 0.75rem;
 }
 
+.py-5 {
+  padding-top: 1.25rem;
+  padding-bottom: 1.25rem;
+}
+
 .pl-10 {
   padding-left: 2.5rem;
 }
@@ -908,6 +907,14 @@ video {
 
 .font-roboto-slab-bold {
   font-weight: 700;
+}
+
+.font-extrabold {
+  font-weight: 800;
+}
+
+.uppercase {
+  text-transform: uppercase;
 }
 
 .leading-8 {
@@ -981,28 +988,17 @@ video {
   background-color: rgb(59 130 246 / var(--tw-bg-opacity));
 }
 
+.hover\:bg-blue-800:hover {
+  --tw-bg-opacity: 1;
+  background-color: rgb(30 64 175 / var(--tw-bg-opacity));
+}
+
 .hover\:text-blue-900:hover {
   --tw-text-opacity: 1;
   color: rgb(30 58 138 / var(--tw-text-opacity));
 }
 
 @media (min-width: 640px) {
-  .sm\:w-8 {
-    width: 2rem;
-  }
-
-  .sm\:w-7 {
-    width: 1.75rem;
-  }
-
-  .sm\:w-6 {
-    width: 1.5rem;
-  }
-
-  .sm\:w-5 {
-    width: 1.25rem;
-  }
-
   .sm\:w-10 {
     width: 2.5rem;
   }
@@ -1018,16 +1014,20 @@ video {
     margin-right: auto;
   }
 
+  .md\:ms-0 {
+    margin-inline-start: 0px;
+  }
+
+  .md\:mt-0 {
+    margin-top: 0px;
+  }
+
   .md\:h-auto {
     height: auto;
   }
 
   .md\:w-1\/4 {
     width: 25%;
-  }
-
-  .md\:w-10 {
-    width: 2.5rem;
   }
 
   .md\:w-48 {
@@ -1041,11 +1041,21 @@ video {
   .md\:grid-cols-8 {
     grid-template-columns: repeat(8, minmax(0, 1fr));
   }
-}
 
-@media (min-width: 1024px) {
-  .lg\:w-auto {
-    width: auto;
+  .md\:flex-row {
+    flex-direction: row;
+  }
+
+  .md\:items-start {
+    align-items: flex-start;
+  }
+
+  .md\:items-center {
+    align-items: center;
+  }
+
+  .md\:text-left {
+    text-align: left;
   }
 }
 

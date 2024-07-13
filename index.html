@@ -21,10 +21,10 @@
 
   <body class="mx-auto max-w-screen-lg">
     <header class="mb-2 flex flex-direction-row justify-between">
-      <h1 id="time" class="text-left text-xs p-2 py-3">Time</h1>
-
+      <h1 id="time" class="text-left font-extrabold text-xs p-2 py-3 bg-azulClaro hover:bg-blue-800 rounded-md px-4 text-white mx-4 transition-colors duration-300 mt-2 flex items-center space-x-2"></h1>
+    
       <div
-        class="bg-azulClaro hover:bg-blue-500 p-1 rounded-md px-4 text-white mx-4 transition-colors duration-300 mt-2 flex items-center space-x-2"
+        class="font-extrabold bg-azulClaro hover:bg-blue-800 p-1 rounded-md px-4 text-white mx-4 transition-colors duration-300 mt-2 flex items-center space-x-2"
       >
         <a
           href="https://dnllira.gumroad.com/l/mcirt"
@@ -52,35 +52,37 @@
       </div>
     </header>
     <nav class="text-center">
-      <div class="flex flex-row p-5">
+      <div class="flex flex-col md:flex-row items-center md:items-center p-5">
         <a href=""></a>
         <img
-          class="w-24 h-24 md:w-48 md:h-auto rounded-full ml-0 md:mx-auto ms-4"
+          class="w-24 h-24 md:w-48 md:h-auto rounded-full ml-0 ms-4"
           src="./img/Perfil.png"
           alt=""
         />
-        <div class="flex flex-col mt-5 ms-5">
-          <h1 class="text-2xl font-roboto-slab font-roboto-slab-bold">
+        <div class="flex flex-col items-center md:items-start mt-5 md:mt-0 ms-5">
+          <h1 class="text-2xl font-roboto-slab font-roboto-slab-bold text-center md:text-left">
             Daniel Lira
           </h1>
-          <h2 class="font-roboto-slab text-sm text-left text-slate-600">Daniel.Dev</h2>
+          <h2 class="font-roboto-slab text-sm text-slate-600 text-center md:text-left">
+            Daniel.Dev
+          </h2>
         </div>
       </div>
       <p class="border border-1 m-5 rounded text-left pl-2 p-1 hover:text-blue-900 hover:border-blue-900 transition-colors duration-300"> 😍 Apaixonado por programação!</p>
 
-      <ul class="flex flex-direction-row justify-center mt-6 my-6">
+      <ul class="flex flex-direction-row justify-center mt-6 my-6 font-extrabold">
         <li
-          class="bg-azulClaro hover:bg-blue-500 p-1 rounded-md px-4 text-white mx-2 transition-colors duration-300"
+          class="bg-azulClaro hover:bg-blue-800 p-1 rounded-md px-4 text-white mx-2 transition-colors duration-300"
         >
           <a href="https://github.com/Danielalveslira">GitHub</a>
         </li>
         <li
-          class="bg-azulClaro hover:bg-blue-500 p-1 rounded-md px-2 text-white mx-2 transition-colors duration-300"
+          class="bg-azulClaro hover:bg-blue-800 p-1 rounded-md px-2 text-white mx-2 transition-colors duration-300"
         >
           <a href="#">Veja mais</a>
         </li>
         <li
-          class="bg-azulClaro hover:bg-blue-500 p-1 rounded-md px-2 text-white mx-2 transition-colors duration-300"
+          class="bg-azulClaro hover:bg-blue-800 p-1 rounded-md px-2 text-white mx-2 transition-colors duration-300"
         >
           <a href="#">Sobre</a>
         </li>
@@ -148,9 +150,6 @@
             <img class="my-2 ml-1 w-7 h-auto sm:w-10 md:w-auto" alt="Static Badge" src="https://img.shields.io/badge/Mobile-green">
           </li>
         </ol>
-        
-        
-        
 
       </div>
 
@@ -158,7 +157,7 @@
       <hr class="border-t border-gray-300 my-5" />
 
       <!-- Area projetos -->
-      <h2 class="my-5 text-2xl font-roboto-slab text-bold text-center">
+      <h2 class="my-5 text-2xl font-roboto-slab text-bold text-center font-extrabold">
         Veja mais
       </h2>
       <div
@@ -246,7 +245,7 @@
         </div>
       </div>
 
-      <h2 class="py-2 text-2xl font-roboto-slab text-bold text-center mb-5">
+      <h2 class="py-2 text-2xl font-roboto-slab text-bold text-center mb-5 font-extrabold">
         Estudando
       </h2>
       <div
@@ -299,7 +298,7 @@
       
       <div id="tripetto-form" class="my-10"></div>
 
-      <footer class="grid grid-cols-2 mb-10">
+      <footer class="grid grid-cols-2 mb-10 font-extrabold">
         <div>
           <h2 class="py-2 text-2xl font-roboto-slab text-bold text-center mb-5">
             Projetos
@@ -374,7 +373,9 @@
           </div>
         </div>
       </footer>
-
+<div>
+  <h2 class="my-5 text-2xl font-roboto-slab text-bold text-center">Confira nossos serviços</h2>
+</div>
       <div class="p-5 text-sm" id="tripetto-16g648r"></div>
 <script src="https://cdn.jsdelivr.net/npm/@tripetto/runner"></script>
 <script src="https://cdn.jsdelivr.net/npm/@tripetto/runner-autoscroll"></script>
