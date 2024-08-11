@@ -2,6 +2,7 @@
   "dependencies": {
     "@tripetto/runner": "^8.2.0",
     "@tripetto/runner-autoscroll": "^9.0.1",
-    "badge-maker": "^4.0.0"
+    "badge-maker": "^4.0.0",
+    "jspdf": "^2.5.1"
   }
 }
